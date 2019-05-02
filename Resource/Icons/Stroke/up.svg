@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/stroke/up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.0305312,11.0305312 L0.96946875,11.0305312 C0.4340625,11.0305312 0,11.4645937 0,12 C0,12.5354531 0.4340625,12.9694687 0.96946875,12.9694687 L23.0305313,12.9694687 C23.5659844,12.9694687 24,12.5354531 24,12 C24,11.4645937 23.5659844,11.0305312 23.0305312,11.0305312 Z M2.3405625,12 L9.92789062,4.412625 C10.3065,4.03401562 10.3065,3.4201875 9.92789062,3.04157812 C9.54928125,2.66301562 8.93545312,2.66301562 8.55684375,3.04157812 L0.28396875,11.3144531 C-0.094640625,11.6930625 -0.094640625,12.3068906 0.28396875,12.6855 L8.55684375,20.958375 C8.746125,21.1477031 8.99428125,21.2423437 9.24239062,21.2423437 C9.4905,21.2423437 9.73865625,21.1477031 9.9279375,20.958375 C10.3065469,20.5797656 10.3065469,19.9659375 9.9279375,19.5873281 L2.3405625,12 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/stroke/up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="005-back" fill="#000000" fill-rule="nonzero" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000) " xlink:href="#path-1"></use>
+        <g id="color-/-grayscale-/-primary-text" mask="url(#mask-2)" fill="#333333">
+            <rect id="color/header" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

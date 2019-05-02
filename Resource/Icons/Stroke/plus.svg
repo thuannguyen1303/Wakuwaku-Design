@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/stroke/plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,0 C11.4645938,0 11.0305313,0.4340625 11.0305313,0.96946875 L11.0305313,23.0305313 C11.0305313,23.5659844 11.4645938,24 12,24 C12.5354531,24 12.9694688,23.5659844 12.9694688,23.0305312 L12.9694688,0.96946875 C12.9694688,0.4340625 12.5354531,0 12,0 Z M23.0305313,11.0305313 L0.96946875,11.0305313 C0.4340625,11.0305313 3.55271368e-15,11.4645938 3.55271368e-15,12 C3.55271368e-15,12.5354531 0.4340625,12.9694688 0.96946875,12.9694688 L23.0305313,12.9694688 C23.5659844,12.9694688 24,12.5354531 24,12 C24,11.4645938 23.5659844,11.0305313 23.0305313,11.0305313 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/stroke/plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="003-plus" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="color-/-grayscale-/-primary-text" mask="url(#mask-2)" fill="#333333">
+            <rect id="color/header" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

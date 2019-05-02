@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/stroke/down-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.7544374,6.23188406 C23.4236532,5.92270531 22.886129,5.92270531 22.5553448,6.23188406 L12.0115998,16.1062802 L1.44718069,6.23188406 C1.11639654,5.92270531 0.578872278,5.92270531 0.248088119,6.23188406 C-0.0826960397,6.5410628 -0.0826960397,7.04347826 0.248088119,7.352657 L11.3913795,17.7681159 C11.5567715,17.9227053 11.7635116,18 11.9909257,18 C12.1976658,18 12.42508,17.9227053 12.590472,17.7681159 L23.7337634,7.352657 C24.0852215,7.04347826 24.0852215,6.5410628 23.7544374,6.23188406 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/stroke/down-arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="icon/stroke/download" fill-rule="nonzero"></g>
+        <g id="color-/-grayscale-/-primary-text" mask="url(#mask-2)" fill="#333333">
+            <rect id="color/header" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

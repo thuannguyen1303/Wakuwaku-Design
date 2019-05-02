@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/stroke/close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M21.7633985,2.23274747 C21.4478907,1.91724012 20.9363673,1.91724012 20.6208595,2.23274747 L2.23664256,20.6169002 C1.92113477,20.9324076 1.92113477,21.4439303 2.23664256,21.7594376 C2.39437691,21.9172499 2.60117377,21.9960779 2.80793156,21.9960779 C3.01468935,21.9960779 3.22144715,21.9172108 3.37922057,21.7593986 L21.7633985,3.3752458 C22.0788672,3.05977751 22.0788672,2.54825482 21.7633985,2.23274747 Z M21.7633594,20.6169393 L3.37914244,2.23278653 C3.06367372,1.91727918 2.55211127,1.91727918 2.23664256,2.23278653 C1.92113477,2.54825482 1.92113477,3.05977751 2.23664256,3.37528486 L20.6208595,21.7594767 C20.7785939,21.9172499 20.9853907,21.996117 21.1921485,21.996117 C21.3989063,21.996117 21.6057032,21.9172499 21.7633985,21.7595157 C22.0788281,21.4439693 22.0788281,20.9324466 21.7633594,20.6169393 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/stroke/close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="002-close" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="color-/-grayscale-/-primary-text" mask="url(#mask-2)" fill="#333333">
+            <rect id="color/header" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

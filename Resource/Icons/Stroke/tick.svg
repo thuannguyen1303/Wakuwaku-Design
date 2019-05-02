@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/stroke/tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23.6485258,3.35149219 C23.179917,2.88283594 22.4201679,2.88283594 21.9514654,3.35149219 L7.57473294,17.7283828 L2.04855219,12.2021953 C1.57994338,11.7335391 0.820194311,11.7335859 0.351491758,12.2021953 C-0.117163919,12.6708047 -0.117163919,13.4305547 0.351491758,13.8992109 L6.72620273,20.2738359 C7.1946709,20.7424453 7.95498248,20.7421172 8.42326316,20.2738359 L23.6485258,5.04855469 C24.1171815,4.57994531 24.1171346,3.82014844 23.6485258,3.35149219 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/stroke/tick" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="001-check" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="color-/-grayscale-/-primary-text" mask="url(#mask-2)" fill="#333333">
+            <rect id="color/header" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>
