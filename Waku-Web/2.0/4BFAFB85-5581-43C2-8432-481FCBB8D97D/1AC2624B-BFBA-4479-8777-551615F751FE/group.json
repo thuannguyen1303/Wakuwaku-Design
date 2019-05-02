@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1AC2624B-BFBA-4479-8777-551615F751FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C020EA9-E526-410C-9E94-15066DA04B50",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "74D8F845-A8B1-44B3-8B89-96786C0347A9",
+    "height": 2103,
+    "width": 343,
+    "x": 16,
+    "y": 232
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "583046B5-B9D1-4094-9093-A8793FFFD3CE"
+    },
+    {
+      "class": "group",
+      "id": "2017A9F9-945F-4F0A-9909-F40BA11D420D"
+    },
+    {
+      "class": "group",
+      "id": "D817663E-BB13-4C3E-849F-FD6EB056C0FC"
+    },
+    {
+      "class": "group",
+      "id": "07453546-A644-4C45-8B88-1A5937B5B9EB"
+    },
+    {
+      "class": "group",
+      "id": "C794ABA3-7050-4DC0-B3EB-11F7F81FC73F"
+    },
+    {
+      "class": "group",
+      "id": "FBBD4FFF-D8EC-45C4-8098-37B4A7EA0D09"
+    },
+    {
+      "class": "group",
+      "id": "B60AD28D-823C-415E-9996-0E34B21922B4"
+    },
+    {
+      "class": "group",
+      "id": "52077F5A-9651-4384-984E-290306122281"
+    }
+  ],
+  "name": "Group 6 [56v l]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB79E3A3-F1D1-49D0-950A-482CB74150D1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+        0
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 56
+      }
+    }
+  }
+}

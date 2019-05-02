@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CDB9C8FC-A941-4BC4-A0B1-BE52AC907BBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9,
+    "width": 16,
+    "x": 0,
+    "y": 13
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1DDB1791-E662-45E5-93F6-F1F13671493E"
+    },
+    {
+      "class": "rectangle",
+      "id": "DA176216-E763-462B-A0EB-993CFCE18458"
+    },
+    {
+      "class": "rectangle",
+      "id": "F5321A75-1510-462C-A657-A618613C7926"
+    },
+    {
+      "class": "text",
+      "id": "F0ACEEB5-0A28-4899-A6E6-7939E3B90CAF"
+    }
+  ],
+  "name": "📐Guide - Left",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

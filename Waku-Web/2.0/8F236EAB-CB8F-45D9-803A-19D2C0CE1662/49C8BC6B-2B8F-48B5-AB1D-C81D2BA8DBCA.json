@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49C8BC6B-2B8F-48B5-AB1D-C81D2BA8DBCA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FC897DF-4271-4B11-B578-6EF921EBA64B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E81ED07-7669-40F8-ABA9-4E09CCF5DD4C",
+    "height": 48,
+    "width": 143,
+    "x": 236,
+    "y": 176
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / tab / active",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "729C0E65-BE88-434A-98AD-9F450AC54D33",
+      "overrideName": "D159AA76-C676-4BC1-B6DE-39E5B284790D_stringValue",
+      "value": "Vietnamese"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AD3C085-459D-4307-A3F6-2D89477C9F20",
+      "overrideName": "50C749EB-645B-4884-83D3-F09C8A02DC3C_symbolID",
+      "value": "212795A4-63B7-41F7-9AE7-09EFB8B6D19E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "767B6169-2E44-43F1-8FB4-9E076E4690DD",
+      "overrideName": "DDC0EE42-1866-40E6-AFA1-7E5DCAB4FD66_symbolID",
+      "value": "FA3931A3-85FB-4A19-8883-2E6497E89054"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5B242815-7A4A-429B-A6C0-6F663F1E9C59",
+      "overrideName": "A046F1E1-8E7E-4F55-98FA-1E232FAAC14C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEEF3E1A-CF35-4AE5-9F1A-17EA351D60D7",
+      "overrideName": "A47401C9-05FA-4052-97A1-EDB2D6F36B35_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66C2F311-6398-425A-9474-F64806279536",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E5A9BC7-F974-4E04-A82B-E13902BBDB23",
+  "verticalSpacing": 0
+}

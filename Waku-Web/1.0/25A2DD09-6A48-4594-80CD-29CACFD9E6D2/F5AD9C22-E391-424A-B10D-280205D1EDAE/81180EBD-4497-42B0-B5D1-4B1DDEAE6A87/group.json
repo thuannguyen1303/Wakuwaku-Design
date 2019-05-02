@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "81180EBD-4497-42B0-B5D1-4B1DDEAE6A87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9,
+    "width": 8,
+    "x": 86,
+    "y": 9
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1CA5F52A-21CA-4AE8-BACC-4F29350FC244"
+    },
+    {
+      "class": "rectangle",
+      "id": "4C97DBF3-C1EF-4D00-99F4-F054074A5C53"
+    },
+    {
+      "class": "rectangle",
+      "id": "9D446B2D-77E5-4DE9-A58F-EA786962B13C"
+    },
+    {
+      "class": "text",
+      "id": "3585852A-DF1C-4DAB-8D30-5966EFFD7C4E"
+    }
+  ],
+  "name": "📐Guide - Right",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "15DC9BED-A9B2-46D1-8985-251C7724B8D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A34395DA-FF1E-421C-B5AC-BD99C78DDDCB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7589B2C3-B405-4439-9998-D7879381DB5F",
+    "height": 24,
+    "width": 58,
+    "x": 156,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / tag / neutral copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C523AD8-1390-41A7-9C0F-E44820E67B5E",
+      "overrideName": "7D4F3259-131F-47FD-9F41-DCA2222F5BF8_stringValue",
+      "value": "Spring"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "333E837C-982C-430B-AE08-218D70B0D703",
+      "overrideName": "7D4F3259-131F-47FD-9F41-DCA2222F5BF8_textStyle",
+      "value": "F4F57480-3A6C-40C7-8CDB-F1717A85B98D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9A50C1F-CAB5-444E-9695-0D81CD15DD8D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB7E76A6-7865-467A-ACD2-7BB0BE15D148",
+  "verticalSpacing": 0
+}

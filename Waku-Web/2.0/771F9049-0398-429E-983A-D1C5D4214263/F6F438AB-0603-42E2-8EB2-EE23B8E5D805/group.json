@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F6F438AB-0603-42E2-8EB2-EE23B8E5D805",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0683FF0-CA95-4932-A005-FEDF138773D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF08C3C1-BBB0-49E0-B899-755FF190382F",
+    "height": 48,
+    "width": 343,
+    "x": 16,
+    "y": 416
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6434AB8F-A989-4CD6-9FB0-AA9DEB18B1FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1B99D7B-4C70-4111-B329-1C70787177C7"
+    },
+    {
+      "class": "text",
+      "id": "CF816F7A-0F44-40D0-9991-BACA410101BD"
+    }
+  ],
+  "name": "facebook btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 42,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33A8EA28-D583-44BE-B29C-9F5367E5492E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

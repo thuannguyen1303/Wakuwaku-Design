@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9725490196078431,
+    "do_objectID": "6DF72124-ABDD-497B-B871-2FDE48441F5F",
+    "green": 0.9725490196078431,
+    "red": 0.9725490196078431
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3103185D-FBF1-4B69-8B10-F8F1B74EA794",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1E18924-6013-44C6-9C64-A1EB4D239923",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07A3668A-9F12-4EFA-B8C6-B38438E3BFEE",
+    "height": 900,
+    "width": 1440,
+    "x": -6786,
+    "y": 68
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6620499E-FE4C-49B0-ADAF-BE0848A14A04",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C6A131A5-F0A8-4A28-80A9-C3F0384AB673"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68,
+    "do_objectID": "7222FA7A-6CE1-4AD1-89F9-99B0DB29D171",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 120,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1200
+  },
+  "name": "Login Error",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 900,
+    "name": "Common Web",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48474EDE-D444-4548-97F8-3722F9240958",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableIDSketchID": "7400CDFC-D0BC-4574-8B21-17233048CCD5"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BE48635C-F086-4566-9DAC-F9EB363CF795",
+    "guides": [
+    ]
+  }
+}

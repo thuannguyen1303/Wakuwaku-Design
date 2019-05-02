@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59AD0710-7008-4BF9-9C88-1615880A16F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 212,
+    "x": 0,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "⚙️ Datepicker",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C04E89D7-7B81-4FBB-B6A2-3B316131201F",
+      "overrideName": "31257B1F-FE71-4DD9-85FE-B492F104F7D6_symbolID",
+      "value": "CC99D10A-5652-4274-95F8-8D7D581E11A0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "603F7AA8-45FA-4F41-9195-D2CFFBD3E253",
+      "overrideName": "C7173C62-9CC5-4D28-AEB2-5B3A84DD890E_stringValue",
+      "value": "August 2018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "46FF1CE6-23FE-49F2-A968-587E8EF5F4B5",
+      "overrideName": "C7173C62-9CC5-4D28-AEB2-5B3A84DD890E_textStyle",
+      "value": "FD12CDB4-54CD-43E3-B79C-9A471FEB64A5"
+    }
+  ],
+  "resizingConstraint": 34,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5AB79924-22E0-4D6E-91E3-40483C50999C",
+  "verticalSpacing": 0
+}

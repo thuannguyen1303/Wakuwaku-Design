@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF2FF196-E504-41FB-BCCB-0509F245E096",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A74A47CB-3F10-4884-B945-C779CC590406",
+    "height": 56,
+    "width": 311.9787234042553,
+    "x": 16.46808510638298,
+    "y": 240
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / list-view / md",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE7B8326-BF37-4BF0-BA7C-D79392797395",
+      "overrideName": "6E63CA8F-6E28-42A3-AB70-36E143267016_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9FE508F5-A677-4DCD-97B3-90D9948100A3",
+      "overrideName": "231A763E-30A5-4B31-B4F9-A7522836FC76_stringValue",
+      "value": "Sub Total"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6247DE9D-170F-4BA9-B98D-1B34579A756D",
+      "overrideName": "AE725759-DFA7-4AE5-BF54-40F9E70FAAA5_stringValue",
+      "value": "¥16.000"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E977ABE-B9BD-4174-B375-5739C3CEA841",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F6D65F7-4449-45DB-907C-52D6B46D8066",
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 0
+    }
+  },
+  "verticalSpacing": 0
+}

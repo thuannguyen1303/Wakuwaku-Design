@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0EE810B6-94F5-40EC-BD35-F7412A6F26AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85D3669F-2B70-4F6F-9AFC-A7CA9E519B38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8485217C-2E27-4F1B-967E-E21AAD5E321D",
+    "height": 40,
+    "width": 119,
+    "x": 0,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / chip / normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4DFB512-EB2E-47BE-811D-1C36F613AD30",
+      "overrideName": "12EC43AA-B785-4A29-A006-E8609B59242B_stringValue",
+      "value": "Study Abroad"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54DCFF53-89D5-4E34-9D22-9FA64F7D0255",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D5739D58-FD55-42A3-9A27-628D4F96A5D4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCBDEC8A-2745-420F-9A73-CE020B844CBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BDEAEC8-8058-4601-9781-3C2395D85996",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9171F3F0-AE0D-42B9-8FF8-EBF63B5A1121",
+    "height": 267,
+    "width": 568,
+    "x": 536,
+    "y": 228
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6973B229-1549-4E2D-A884-037171176A5A"
+    },
+    {
+      "class": "group",
+      "id": "B08DD031-B6A8-43E6-80D1-57CDCC3DC563"
+    }
+  ],
+  "name": "Group 12 [56v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74ECD226-9519-43B9-A42B-B80612CAC7C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 56
+      }
+    }
+  }
+}

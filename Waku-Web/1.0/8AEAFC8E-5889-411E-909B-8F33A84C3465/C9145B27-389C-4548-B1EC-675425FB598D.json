@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9145B27-389C-4548-B1EC-675425FB598D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A6C3F81-0C83-4B80-BF3B-4685F69ADF58",
+    "height": 24,
+    "width": 110,
+    "x": 637,
+    "y": 448
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / selection / checkbox / pc copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F75E68E-1604-4EB8-9DEA-777FE6C8714A",
+      "overrideName": "76024D65-44A0-40FD-A23C-6008BD18FBE6_stringValue",
+      "value": "Advertorial"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BC173B9-4F2F-44D8-8EAF-0C5CDC5B1FEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FCA563C-C28A-4259-B8EC-2CA06F55048D",
+  "verticalSpacing": 0
+}

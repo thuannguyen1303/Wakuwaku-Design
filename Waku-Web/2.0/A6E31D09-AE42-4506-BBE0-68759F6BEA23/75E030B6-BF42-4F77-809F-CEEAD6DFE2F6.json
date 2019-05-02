@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "75E030B6-BF42-4F77-809F-CEEAD6DFE2F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63D084E5-93E8-4A47-89F7-3396015C70E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDC582E6-D3EE-4671-ADFD-93FB5E81599D",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 2668
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / selection / checkbox /  group-title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF099A80-F8AC-49F5-826F-EBACFC6198E2",
+      "overrideName": "C5B7D424-23F1-4DE3-96A2-392BB3EC6FAA_stringValue",
+      "value": "Area"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ACB4407A-1799-4EE0-8430-C82AEC2DF7D1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41DD59DD-375B-420D-BFE6-57D81016E234",
+  "verticalSpacing": 0
+}

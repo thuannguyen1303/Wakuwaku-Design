@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E268A162-94BA-45CB-81D2-2573D771BC34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC629C5C-7909-4143-8683-AF860FF51294",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01A4C825-E697-4D28-B5FF-397F860A73B9",
+    "height": 40,
+    "width": 79,
+    "x": 127,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / chip / normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8ED22A7-6729-4B60-8408-770954063207",
+      "overrideName": "12EC43AA-B785-4A29-A006-E8609B59242B_stringValue",
+      "value": "Culture"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66E49ECD-725C-4B8C-8484-FA633884E588",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D5739D58-FD55-42A3-9A27-628D4F96A5D4",
+  "verticalSpacing": 0
+}

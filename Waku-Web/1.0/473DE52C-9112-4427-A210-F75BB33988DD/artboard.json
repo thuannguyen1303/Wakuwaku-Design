@@ -1,0 +1,157 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "473DE52C-9112-4427-A210-F75BB33988DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D29FABD1-9F56-4A90-8F13-76F67A5349F1",
+    "height": 900,
+    "width": 1440,
+    "x": 12584,
+    "y": 12207
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5A83AB0A-EE4A-484D-AF1C-EE728798474D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1615B247-182B-4948-AF1E-7AC902872022"
+    },
+    {
+      "class": "text",
+      "id": "9A20475D-8EFE-4CA3-9AFC-10AF8CC515C8"
+    },
+    {
+      "class": "text",
+      "id": "9CC14031-3B25-4271-95A9-A3723E31A18F"
+    },
+    {
+      "class": "text",
+      "id": "CE5D06A3-CCF2-4E68-AA51-19B7C79FF9CA"
+    },
+    {
+      "class": "text",
+      "id": "D333389A-565A-407B-A6A3-DAD093E5BA0C"
+    },
+    {
+      "class": "group",
+      "id": "F51F5B46-37EA-4C53-A310-30EA9E480448"
+    },
+    {
+      "class": "group",
+      "id": "4B815945-19DD-422F-9337-5CD270E6A2AD"
+    },
+    {
+      "class": "group",
+      "id": "67130305-A435-4DD9-86E8-A362709295CD"
+    },
+    {
+      "class": "group",
+      "id": "1C9925B6-4488-422A-8B25-394CE7DA7634"
+    },
+    {
+      "class": "group",
+      "id": "7D068B47-BB18-4693-8C28-EBAC52D713BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CBFB3FF-8589-4E27-B593-FCBA02B4136F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A26430B-D499-4A33-BFB7-72D6792C5A97"
+    },
+    {
+      "class": "text",
+      "id": "A67A20AA-D2A8-40F7-995D-52DDDBB31199"
+    },
+    {
+      "class": "group",
+      "id": "EDC17BB6-DC49-4D7F-BDF9-0CF6C327D954"
+    },
+    {
+      "class": "group",
+      "id": "CF979B0F-1485-4035-BA9D-D828D589888B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 120,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1200
+  },
+  "name": "Desktop - Writer Terms",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FBDC8A28-41BC-477E-A016-F7D8FC124503",
+    "guides": [
+    ]
+  }
+}

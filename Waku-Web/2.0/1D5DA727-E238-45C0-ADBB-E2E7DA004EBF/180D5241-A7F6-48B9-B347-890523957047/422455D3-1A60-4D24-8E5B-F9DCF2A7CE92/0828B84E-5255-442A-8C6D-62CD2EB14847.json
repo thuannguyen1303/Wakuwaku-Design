@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0828B84E-5255-442A-8C6D-62CD2EB14847",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86F697CC-2DF6-448B-8B3B-F2DC1CFEA146",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAE5A5B2-016D-4B43-9DC6-4C09F17F3077",
+    "height": 80,
+    "width": 312,
+    "x": 16,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card / header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "972CEC48-4ACC-4CA3-9825-4C6DADB6DE64",
+      "overrideName": "8C08DD61-A073-4287-95C1-171D24008A00_stringValue",
+      "value": "Articles of The Month"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09E14EC9-3CA8-4DA7-AE66-09FB247F628B",
+      "overrideName": "EC2DB134-F0B9-4C06-B24A-3FED009B908F_symbolID",
+      "value": "B68730EB-EA28-45C8-9494-4578B8C0AABA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E5FACBD-9D86-40AB-9234-52BAC58DC33E",
+      "overrideName": "89E41141-938C-415A-A320-93065D445243/02FA317E-973F-41EE-A690-4DF1762B6F6C/0C0524C0-72E1-4C74-B8F7-823B48A22207_symbolID",
+      "value": "DAB1F315-AF0D-49D8-94AB-03C89E626DAA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A83841D9-63E6-4EE5-8929-7FEC8A761FB9",
+      "overrideName": "8C08DD61-A073-4287-95C1-171D24008A00_textStyle",
+      "value": "4914586D-9642-4CF3-9FB1-2A73187F99AD"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA2B95A3-7A7D-4EE7-816E-075186DBB4E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "95CC7AE7-8C57-4425-9821-4252A5ED86B8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3423881-4C41-4DA4-B824-670C4659A1D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "62853258-B57D-4726-8F86-ABD53B791B9B",
+    "height": 80,
+    "width": 311,
+    "x": 0,
+    "y": 80
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / list-view / md copy 19",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DEDB407-5E6E-48BB-B872-AB80EE0C3DE4",
+      "overrideName": "6BA88334-366C-4C1F-98AA-DD1405ED399D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CBFE7EE-2A07-4FC6-A47F-D2F3A1616513",
+      "overrideName": "E5417F86-B53B-4BA4-AA18-4E9824C350DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D18AC134-DB38-4171-9296-16148D28A28A",
+      "overrideName": "D8EE228D-0AA8-4449-A66A-9DE0A6C29AFB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F61FD9B-BA1B-4A97-8E0D-DB1256BC6C7A",
+      "overrideName": "BEFEE517-96BF-46C1-90AA-A3FFD32FA3D3_stringValue",
+      "value": "Birthday"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E2B33CD-5913-4A67-8A59-4199B1D9973E",
+      "overrideName": "2ACBF7FD-1D6B-45EF-95BA-B47902276C35_stringValue",
+      "value": "21 Mar 2018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B864052E-4764-43B9-AFF6-3CBF4FE0A279",
+      "overrideName": "91B73BED-CA2F-4916-9211-535B194B1549_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34202167-FCB7-40B7-B5C8-74F6B8C8F918",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29D93528-FA98-4ADC-B947-1080632ACD06",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 0
+    }
+  },
+  "verticalSpacing": 0
+}

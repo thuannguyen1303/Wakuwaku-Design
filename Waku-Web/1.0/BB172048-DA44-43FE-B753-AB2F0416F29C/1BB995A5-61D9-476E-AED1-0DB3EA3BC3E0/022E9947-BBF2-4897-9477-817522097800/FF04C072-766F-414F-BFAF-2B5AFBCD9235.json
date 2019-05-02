@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF04C072-766F-414F-BFAF-2B5AFBCD9235",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3619A25E-89A4-4D1C-80A3-2B165C24975C",
+    "height": 80,
+    "width": 311,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / list-view / md copy 18",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B87A5C7-CDD2-4AD1-A9B3-5F10CE2AE76D",
+      "overrideName": "6BA88334-366C-4C1F-98AA-DD1405ED399D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA684384-7BC5-420F-A583-024C894F85C9",
+      "overrideName": "E5417F86-B53B-4BA4-AA18-4E9824C350DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9510D7D-9E10-4450-8216-1A68A1495EFC",
+      "overrideName": "D8EE228D-0AA8-4449-A66A-9DE0A6C29AFB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E34BD0CB-4341-40E0-B3E5-DEAF601B15B9",
+      "overrideName": "BEFEE517-96BF-46C1-90AA-A3FFD32FA3D3_stringValue",
+      "value": "Fullname"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E2946EB-6080-4F37-868D-86E7BD66D16E",
+      "overrideName": "2ACBF7FD-1D6B-45EF-95BA-B47902276C35_stringValue",
+      "value": "Thuan Nguyen"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5E8533FE-2648-4226-84AB-CD0A7D46F4B4",
+      "overrideName": "91B73BED-CA2F-4916-9211-535B194B1549_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA0D6ECB-5ABC-4B01-8ABD-BD7AD6A2B5FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29D93528-FA98-4ADC-B947-1080632ACD06",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 0
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "985A734E-A76C-4E67-8A6F-28884B008CDE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D99AB7CE-21F9-4BE4-92A6-F92385D788C6",
+    "height": 3632,
+    "width": 1169,
+    "x": 136,
+    "y": 152
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "956F4085-4824-4AFA-B01E-908E1AC4CA6A"
+    },
+    {
+      "class": "group",
+      "id": "261A11E1-2860-4C67-AB9E-D2B029B9435D"
+    },
+    {
+      "class": "group",
+      "id": "3F26E645-900E-45E8-842C-2BA6DD864C36"
+    },
+    {
+      "class": "group",
+      "id": "FC5E1AD6-3500-4263-99C2-26334DD89529"
+    },
+    {
+      "class": "rectangle",
+      "id": "4E0863D8-B962-4137-B235-0BC1EAB9D268"
+    },
+    {
+      "class": "rectangle",
+      "id": "9D44C8D9-7502-426E-9C8B-03D81022E3D3"
+    },
+    {
+      "class": "rectangle",
+      "id": "978762D2-479D-429E-BE0B-A43D53D430B1"
+    }
+  ],
+  "name": "Group 12 [56v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31C49743-AB48-4598-BF11-A817DA3D464F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 56
+      }
+    }
+  }
+}

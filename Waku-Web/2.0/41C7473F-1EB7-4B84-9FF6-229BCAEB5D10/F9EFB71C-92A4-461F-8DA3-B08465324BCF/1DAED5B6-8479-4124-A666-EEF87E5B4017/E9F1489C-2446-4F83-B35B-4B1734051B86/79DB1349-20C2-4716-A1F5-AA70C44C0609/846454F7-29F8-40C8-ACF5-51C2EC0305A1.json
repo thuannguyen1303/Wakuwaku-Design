@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "846454F7-29F8-40C8-ACF5-51C2EC0305A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D6908EC-6FF6-400F-9211-D5CBA1585B6C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4E9BDDE-E8C1-4AB7-BFA3-887D28200AC5",
+    "height": 24,
+    "width": 379,
+    "x": 0,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / checkbox / pc copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAE2C269-3B84-4715-B3E3-8AF09D2C97A0",
+      "overrideName": "76024D65-44A0-40FD-A23C-6008BD18FBE6_stringValue",
+      "value": "I have read and agreed with Terms & Condition 2"
+    }
+  ],
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D21C9CD-3F8C-4438-B7BD-B1FD890A31D1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FCA563C-C28A-4259-B8EC-2CA06F55048D",
+  "verticalSpacing": 0
+}

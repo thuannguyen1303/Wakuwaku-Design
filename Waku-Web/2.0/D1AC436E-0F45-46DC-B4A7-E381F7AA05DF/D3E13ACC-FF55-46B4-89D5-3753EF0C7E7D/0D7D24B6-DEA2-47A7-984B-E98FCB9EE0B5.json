@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0D7D24B6-DEA2-47A7-984B-E98FCB9EE0B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7274C60A-969A-4482-B47A-7144C9283484",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "938C5347-CB2C-41BF-8997-E1493CD9A91F",
+    "height": 16,
+    "width": 16,
+    "x": 236,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/stroke/002-trash",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59FD1935-3BC3-46CA-AC4C-F5D7A603D369",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CB4E1B5B-4E3B-45FF-ACA4-AD264C5AEE71",
+  "verticalSpacing": 0
+}

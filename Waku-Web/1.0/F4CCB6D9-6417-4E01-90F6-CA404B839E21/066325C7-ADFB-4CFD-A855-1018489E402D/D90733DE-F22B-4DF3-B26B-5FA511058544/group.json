@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D90733DE-F22B-4DF3-B26B-5FA511058544",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 269,
+    "x": 933,
+    "y": 12
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8CD790C3-F32D-4942-A744-47D6594538BE"
+    },
+    {
+      "class": "group",
+      "id": "67D744C9-F751-498F-BACB-BA9D85BCFFEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3B14EC1-1E4D-4299-9998-4FCC1470C6B8"
+    },
+    {
+      "class": "text",
+      "id": "1722DF20-20ED-443E-A7A3-5F7A45D3C0EA"
+    }
+  ],
+  "name": "Search Bar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

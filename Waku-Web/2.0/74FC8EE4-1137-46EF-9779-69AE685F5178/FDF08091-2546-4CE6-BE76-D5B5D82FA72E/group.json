@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FDF08091-2546-4CE6-BE76-D5B5D82FA72E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 100,
+    "x": 1304,
+    "y": 248
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D162EAD8-9338-40AA-9F94-CCCB307F1365"
+    },
+    {
+      "class": "text",
+      "id": "E789F549-6CA9-4311-ABA5-F3AB5F33C731"
+    },
+    {
+      "class": "group",
+      "id": "D5F78727-78A1-42B0-9CCF-729434B29DF6"
+    },
+    {
+      "class": "group",
+      "id": "838EE487-FEAC-4D27-9D51-059BF56E358C"
+    }
+  ],
+  "name": "Start Review Button",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 1
+    }
+  }
+}

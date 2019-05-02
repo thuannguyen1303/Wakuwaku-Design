@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "21B24B41-971D-43CA-87D3-3F353F56CD0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A03D105-082D-4072-962D-CA2161622561",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4AC19DF-0CCA-4CAC-A808-EBAE5928C213",
+    "height": 24,
+    "width": 100,
+    "x": 0,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / checkbox",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BB3C3CE-D5D5-44A1-8A46-B232A62B6382",
+      "overrideName": "76024D65-44A0-40FD-A23C-6008BD18FBE6_stringValue",
+      "value": "Rejected"
+    }
+  ],
+  "resizingConstraint": 61,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB25BCC3-E8A6-4203-B595-1F9F8C64BE4E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FCA563C-C28A-4259-B8EC-2CA06F55048D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

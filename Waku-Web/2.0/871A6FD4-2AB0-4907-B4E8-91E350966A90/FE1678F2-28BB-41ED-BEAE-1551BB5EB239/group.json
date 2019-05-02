@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE1678F2-28BB-41ED-BEAE-1551BB5EB239",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 125,
+    "x": 365,
+    "y": 248
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6CAE1328-0414-4DCF-B078-1E9D7C5C0E36"
+    },
+    {
+      "class": "text",
+      "id": "CCF76D1B-1A01-42A9-AE55-5274A502A6F4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB419A13-A5CE-4499-AC41-BBCE6B221D32"
+    },
+    {
+      "class": "group",
+      "id": "011891A1-E91D-4026-917F-DC5139A76D57"
+    },
+    {
+      "class": "group",
+      "id": "AE129F32-F8F6-47F1-B966-554F0EBEADE1"
+    },
+    {
+      "class": "group",
+      "id": "1869C64A-09F4-4A2A-801A-961DDBBF737B"
+    }
+  ],
+  "name": "Start Review Button Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 1
+    }
+  }
+}

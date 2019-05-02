@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "19B6BE1D-C117-4866-8937-2366AED4B95D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7E94D552-CF39-44DB-97A1-2FA5EC4C7127",
+    "height": 56,
+    "width": 343,
+    "x": 16,
+    "y": 56
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D01F42D4-78CF-44C7-A611-5F65CAC8E53E"
+    },
+    {
+      "class": "text",
+      "id": "3504DC0D-189C-46E0-9FA8-ED0764BC493C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED5815E3-CEF8-4789-A9EB-16B543D869AC"
+    }
+  ],
+  "name": "Toast Copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AD95A27-2B2C-4A61-853C-0AED2D05D095",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

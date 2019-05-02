@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "03699FE3-4F45-41AA-A69A-37600ECA08D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65ACCDFA-80F1-4BA8-82B8-B1D734F9885F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0968190-2EB8-44A2-A83C-7C6D1AC139AC",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "element / avatar / lg",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE71970C-0B5B-4C3F-94FC-E5D4420B3D42_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d5807a68287b188b7a3617ea15126446ad6af950.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A127FEF8-D0C0-44BD-8C26-2D8FD050B0C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3C9EAA1-0DDC-41CE-BE6A-60C8D148A4EB",
+  "verticalSpacing": 0
+}

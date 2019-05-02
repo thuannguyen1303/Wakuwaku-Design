@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7C69E40-1CF9-4AF0-964E-E157B3157DA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "923701A1-A81F-4EE2-AB6E-51084A8A1A3E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB5C2F39-40E2-465A-829F-96513A4B006E",
+    "height": 120,
+    "width": 215,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widge - Total income",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CEC013C-8E20-484C-94A4-D6D18D0EBB4A",
+      "overrideName": "A456A7E8-A994-4E07-84F1-CC344436D323_stringValue",
+      "value": "Total income"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C1622F4-1121-4E7B-8170-DF481FF09962",
+      "overrideName": "3DD4E975-9E8F-4070-8DA1-219BFBBD29A4_stringValue",
+      "value": "+50% from last month"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94AE55EA-C42C-48CE-929C-8A25CA5A8470",
+      "overrideName": "AA32AEA9-CE2A-4D68-9FF5-42C38B3BC894_stringValue",
+      "value": "¥23.520"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF1161A9-F47F-4CED-87B4-A022276CDCD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D911D6EC-4C80-4E7A-B425-154F93CB8733",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

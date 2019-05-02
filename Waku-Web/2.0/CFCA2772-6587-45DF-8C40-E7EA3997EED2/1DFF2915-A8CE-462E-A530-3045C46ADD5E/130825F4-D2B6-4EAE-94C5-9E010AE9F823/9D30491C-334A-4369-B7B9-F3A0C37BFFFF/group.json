@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D30491C-334A-4369-B7B9-F3A0C37BFFFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8644B246-ED0C-4882-AF0C-39542B524094",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "222342FA-9244-46B0-9C9D-0204DC2424DC",
+    "height": 144,
+    "width": 569,
+    "x": 0,
+    "y": 1388
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6FD627DB-35F3-4C6B-A040-1D464546F183"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30E778D9-4296-4F7B-A335-BBB922777E77"
+    }
+  ],
+  "name": "Profile Infor - 7",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "272A6626-DDB4-4A59-8179-0F1C05E6075D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

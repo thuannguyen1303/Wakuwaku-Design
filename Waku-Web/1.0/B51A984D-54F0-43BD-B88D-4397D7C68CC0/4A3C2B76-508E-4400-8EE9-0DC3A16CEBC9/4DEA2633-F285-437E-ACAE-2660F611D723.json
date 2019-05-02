@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DEA2633-F285-437E-ACAE-2660F611D723",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "B51A984D-54F0-43BD-B88D-4397D7C68CC0",
+    "do_objectID": "838D2A67-A792-4E0E-BA6D-A2B04E3264F7"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD5A0936-C5C8-406B-81DE-8F792D86AEF5",
+    "height": 48,
+    "width": 83,
+    "x": 93,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / tab / active copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "829169F9-DE02-43B0-882A-872387866F1D",
+      "overrideName": "50C749EB-645B-4884-83D3-F09C8A02DC3C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F72823AC-C84F-4786-91C8-A5B61E3A9F1F",
+      "overrideName": "D159AA76-C676-4BC1-B6DE-39E5B284790D_stringValue",
+      "value": "Personal Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDACAA64-DDDC-4128-AF5C-A36E331FE1F5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E5A9BC7-F974-4E04-A82B-E13902BBDB23",
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 0
+    }
+  },
+  "verticalSpacing": 0
+}

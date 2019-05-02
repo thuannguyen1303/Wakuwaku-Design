@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "503B7D92-49B3-4981-AACC-BB97E9D1A979",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01B2DC60-F1DC-46EE-9DA3-F7102E67E118",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9696257D-0F05-4569-AE19-FDDD144D7FD8"
+    },
+    {
+      "class": "group",
+      "id": "E7256A2E-35E4-4217-BEDC-13BC3ADD4573"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93A46367-6974-4865-8DCA-368943F16C1F"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "4231ABC1-78E5-4127-BA12-7C449AD0934A"
+    },
+    {
+      "class": "group",
+      "id": "621C4960-86A3-4C58-98D8-DDCCF0C2B6AB"
+    }
+  ],
+  "name": "Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "93DB7B7B-EE8B-41FE-8FF0-0D987E28F46B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41AB3154-6004-4ECA-92B7-3B27B8E55224",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9EF21C5-0F2B-447C-B648-CEACC6AB5E28",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "645B5B1F-8F3E-4E87-A18A-6E9751F349AC",
+    "height": 40,
+    "width": 94,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / checkbox / pc copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "16388E64-6F3D-4436-A3E1-9BFD4F232C1A",
+      "overrideName": "64507085-3CAF-48E3-97C4-B3189CED4F34_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A139AEAD-DA4E-4B7F-8087-77D5BA8D9BE9",
+      "overrideName": "E06907FD-5501-4B3B-B7F3-F3C14C65D756_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "08102702-147D-4C9A-9328-56DA4D1B967D",
+      "overrideName": "0E96F789-88DB-444A-93FD-E25025EBA1C2_stringValue",
+      "value": "Hokkaido"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D352A43E-F803-41A6-94E2-7EE4AA4E0347",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "57AA845F-5223-4830-9000-4B842041B347",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

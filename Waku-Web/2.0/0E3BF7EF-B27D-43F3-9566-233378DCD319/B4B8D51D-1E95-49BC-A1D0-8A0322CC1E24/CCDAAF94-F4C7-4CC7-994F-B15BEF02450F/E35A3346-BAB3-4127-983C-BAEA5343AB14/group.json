@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E35A3346-BAB3-4127-983C-BAEA5343AB14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6755755F-0469-4CF0-9929-E6CAC4F17095",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B162BF52-D873-4A2F-A467-9F2EB82D9D4B",
+    "height": 2336,
+    "width": 343,
+    "x": 0,
+    "y": 124
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DE2C32E4-B47F-4AD4-8F02-B31D961386E0"
+    },
+    {
+      "class": "group",
+      "id": "C3BD77AC-5ED5-435C-A693-E02892CCC8A8"
+    },
+    {
+      "class": "group",
+      "id": "DBD77382-E8FA-4789-A3B2-A00662B1F604"
+    },
+    {
+      "class": "group",
+      "id": "F6D037CB-DA4F-45BE-B827-7632A112AA35"
+    },
+    {
+      "class": "group",
+      "id": "21D6BA9C-6EB0-4159-A663-A60209D04C20"
+    },
+    {
+      "class": "group",
+      "id": "DB6137EE-6E45-4079-BB8A-0E531FDFD5D2"
+    },
+    {
+      "class": "group",
+      "id": "02BE8503-7124-4E63-BCF5-0A09A0495241"
+    },
+    {
+      "class": "group",
+      "id": "AC334C5A-9A36-49BA-8DA0-45BD0CE736DA"
+    }
+  ],
+  "name": "Group 6 [56v l]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9078F2A6-99E5-480C-9948-866A2E8C47FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+        0
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 56
+      }
+    }
+  }
+}

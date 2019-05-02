@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F52D80E-BBC9-478C-A45D-C5B2CF2B1B9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3207C755-B850-4F75-A5BA-7C65581E1BEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF4379DD-D407-484D-924A-FB59EF69E12D",
+    "height": 40,
+    "width": 125,
+    "x": 259,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / chip / normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41C94692-071E-4905-84C2-21260465A094",
+      "overrideName": "12EC43AA-B785-4A29-A006-E8609B59242B_stringValue",
+      "value": "Within 5 Years"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19CAB1A3-49E2-492A-B81E-3ED372D9A13F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D5739D58-FD55-42A3-9A27-628D4F96A5D4",
+  "verticalSpacing": 0
+}

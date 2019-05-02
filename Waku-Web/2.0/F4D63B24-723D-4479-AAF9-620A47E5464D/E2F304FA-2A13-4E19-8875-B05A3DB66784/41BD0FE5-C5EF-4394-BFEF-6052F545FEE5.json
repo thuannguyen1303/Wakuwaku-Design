@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41BD0FE5-C5EF-4394-BFEF-6052F545FEE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0D99A393-8981-4823-BBF6-C45C0598C370",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E88DDAF0-9551-4F0C-8B0F-70A41C4E9518",
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "element / avatar / lg",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DE71970C-0B5B-4C3F-94FC-E5D4420B3D42_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d5807a68287b188b7a3617ea15126446ad6af950.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32265C1F-20B9-4C8D-A823-71E8CC5EB5E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3C9EAA1-0DDC-41CE-BE6A-60C8D148A4EB",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 32,
+            "enabled": 1,
+            "modelID": "constraint_b506d61c-8895-45d4-8bcc-722638db3cce",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 32
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_39dddc2d-04ea-4af9-98f6-e72db871b343",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3E1ADE31-2541-477E-B93F-DE9AD61A646A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "486A4F39-8A48-4F65-8396-40F80CB6E9F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "479D1CD5-C791-4F22-B5C5-0C6F65FF7C7D",
+    "height": 448,
+    "width": 520,
+    "x": 0,
+    "y": 72
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CAA8863A-6645-44EA-B821-B32DDF5D8565"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC68D4A3-303A-4C8C-9752-F86A18000228"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "805E6C66-8D45-4D48-AF57-90FE3189031D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C5437AF3-F2AB-43A9-A23F-999BFE71B1AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABB92091-E209-45F6-A463-A4235C083B0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E2FBE16-2CF5-4289-B016-7D36536C6727"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26314367-696C-46B6-99AB-1B7E52B70061"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C89F78F-C59C-44E8-81F8-024551B66A7A"
+    }
+  ],
+  "name": "Group 8 [0v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2A66CB2-478A-4CF5-9EB3-96263F9726B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 0
+      }
+    }
+  }
+}

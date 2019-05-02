@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B6F341CD-F3D0-4567-A168-0F6E62DF8BA2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ED901A35-BE8D-4546-9625-9B6ECBA38A61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6CEB2A0F-2D61-4AE5-A940-52D3749DCA51",
+    "height": 280,
+    "width": 502,
+    "x": 16,
+    "y": 72
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "69A4753F-51DD-48F8-AC6E-B78542ADA28B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E64E21B4-B566-4ECD-9F68-F5524579277E"
+    },
+    {
+      "class": "group",
+      "id": "88078B30-33B9-4E86-801A-F300063F860F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDCF4FD8-DD8E-463E-B8A5-AFA02C3EEEAC"
+    }
+  ],
+  "name": "Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE84828D-BBFC-416D-92F1-C7207769CE42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0
+    }
+  }
+}

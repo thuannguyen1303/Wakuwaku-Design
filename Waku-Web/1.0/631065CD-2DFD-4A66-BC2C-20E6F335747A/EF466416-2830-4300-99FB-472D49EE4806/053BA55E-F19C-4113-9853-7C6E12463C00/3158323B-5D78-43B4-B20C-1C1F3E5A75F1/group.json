@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3158323B-5D78-43B4-B20C-1C1F3E5A75F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 315,
+    "x": 24,
+    "y": 69
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CB795D4F-CCCE-49D8-ABB9-04D210529326"
+    },
+    {
+      "class": "group",
+      "id": "CF0B7F8A-056A-4192-B0DE-394A32CE4FB7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2254785E-4A06-46A3-A701-891C37A6249C"
+    },
+    {
+      "class": "text",
+      "id": "046F0710-DE74-4BDF-9E78-05040651CA16"
+    }
+  ],
+  "name": "component / input / 1-addons / filled copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

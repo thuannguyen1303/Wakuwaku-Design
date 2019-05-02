@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "59B3487B-4B3A-4846-9335-A37FF09345AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2CCF2057-8C18-4EA7-B594-D1F81F59B781",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "443AA3B3-4762-41D4-A348-98E765F7B2CB",
+    "height": 336,
+    "width": 375,
+    "x": 0,
+    "y": 56
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "605B999D-7C12-46F5-A17A-DEE2AD90F48D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C70478B9-9647-4C94-B0C6-BF50DCBCA889"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED178F89-2319-4258-80EE-A41EDA7288EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "113FBA49-CDE2-40CB-9951-98151CECE893"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50A926FA-8C11-4C81-A812-FB4D8FB089D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E843DE1A-C4B3-46E5-B591-B5E4EFE6BBA9"
+    }
+  ],
+  "name": "Group [0v c]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "370D3E38-CA11-4527-A69E-FCA7CD470855",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+        1
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 0
+      }
+    }
+  }
+}

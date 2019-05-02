@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B179C9D5-E16E-40EE-8036-B02DAB022593",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21A7350E-3684-4DF1-91A8-F3813C387D35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA08772E-292D-4526-B8F1-A29FDBBF807C",
+    "height": 40,
+    "width": 80,
+    "x": 197,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / checkbox / pc copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "192618DC-EDBF-4C9D-8784-80C1584AE9DB",
+      "overrideName": "E307C4F1-A92B-4D3A-8F8B-EF9DE1349A41_stringValue",
+      "value": "Chubu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60D42514-5186-4685-8070-1E71A9DC38AD",
+      "overrideName": "5C907E9F-1171-4A32-B38E-F417913885B2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3A6C424-242B-4C5F-8432-50A443311928",
+      "overrideName": "4225F44B-5A55-4BA6-ABFD-0DC27B42E4DF_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0166967A-AAFE-47AF-B267-DF34AA45C34A",
+      "overrideName": "12EC43AA-B785-4A29-A006-E8609B59242B_stringValue",
+      "value": "Tohoku"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8B0C9DBC-7BAE-4B35-9CD9-2C7BFA59E264",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D5739D58-FD55-42A3-9A27-628D4F96A5D4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

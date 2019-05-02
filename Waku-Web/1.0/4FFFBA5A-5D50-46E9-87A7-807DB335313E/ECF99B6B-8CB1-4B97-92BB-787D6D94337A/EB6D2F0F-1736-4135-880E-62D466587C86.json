@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB6D2F0F-1736-4135-880E-62D466587C86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7857923D-880C-4C84-8BDC-E46406A5A322",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22420A52-C086-4097-B706-AC88A09B6DD1",
+    "height": 40,
+    "width": 368,
+    "x": 0,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / text-input copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C7E4532-9F07-4385-81D0-981CC67F84F2",
+      "overrideName": "FC7111E4-FAD0-4715-B1A5-06E3DCF864B9/8D7AB882-DF32-478D-B0A1-141E29BE9415_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ADA2B590-8EE3-429D-B271-69A6C69421F2",
+      "overrideName": "31257B1F-FE71-4DD9-85FE-B492F104F7D6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93BC446D-7362-4D88-850D-CAE79F5AA2BA",
+      "overrideName": "C7173C62-9CC5-4D28-AEB2-5B3A84DD890E_stringValue",
+      "value": "Thuận Nguyễn"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AEA32596-2237-45DE-B96E-9AD04E062C8B",
+      "overrideName": "8E32768A-FCD1-44ED-A7C2-7765C64A80B2/47783FE1-2BBB-405C-9D44-12661A7C3344_symbolID",
+      "value": "C1CEC2DD-D7D0-407B-824E-90BB74D4D33C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2371BC93-FE6B-4536-911D-D2A1EBBC7494",
+      "overrideName": "AB989CAA-EF53-4C22-9C7E-54771F969DBB/338A2B99-DD5A-4608-949E-8E2F4D160286_symbolID",
+      "value": "9E0C84EF-571F-40FA-926A-04A9D50F2295"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0A1CE41-2E62-4FC1-A3C2-84E9CB487E07",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5AB79924-22E0-4D6E-91E3-40483C50999C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

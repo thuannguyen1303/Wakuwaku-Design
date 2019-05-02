@@ -1,0 +1,93 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AFBC9EFB-F907-4B34-84DD-C8E20DCD81D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3251A5AE-37CC-47BE-884B-505A78C18216",
+    "height": 56,
+    "width": 343,
+    "x": 0,
+    "y": 224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / checkbox / pc copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC1BADAC-A4FC-4D37-BC6E-84B9A76CB10E",
+      "overrideName": "E307C4F1-A92B-4D3A-8F8B-EF9DE1349A41_stringValue",
+      "value": "Kanto"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59458A10-1592-4869-9A78-109DDFFDC136",
+      "overrideName": "5C907E9F-1171-4A32-B38E-F417913885B2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2EE70DAF-F6AC-4AF5-8CC3-6EE2963C8E5C",
+      "overrideName": "4225F44B-5A55-4BA6-ABFD-0DC27B42E4DF_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F04F1186-F7C9-4B55-B1AF-AE84A3714A7A",
+      "overrideName": "E1FB7080-29AF-4798-8448-CA8307256914_symbolID",
+      "value": "589E6FD3-41D1-40D4-990B-B384E6E36AD4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EF8CC8A-934B-47F5-A832-A773BEF182E1",
+      "overrideName": "2A0E1477-1FF3-43F2-A39E-145E09C1DBFE_stringValue",
+      "value": "English"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E265BBA-6EB0-47C9-8C80-AC3CAF51A4D3",
+      "overrideName": "A25F6059-9677-462F-B20F-42A61403B564_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34C9EC06-6450-452A-96D3-44AC42D0F6F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "58331D33-0792-4FAE-B226-0F09C707517D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

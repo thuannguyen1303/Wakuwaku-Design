@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B6C3703-3031-412D-8D9E-564EE60DAB48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA57E763-589B-45C4-BF18-C5302E8153B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "42A55D71-01A6-411F-906B-3D11A32061DC",
+    "height": 24,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / checkbox copy 18",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B41E77A-110C-40BF-9E8C-B25415A6B176",
+      "overrideName": "76024D65-44A0-40FD-A23C-6008BD18FBE6_stringValue",
+      "value": "Traditions"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59AA4540-FE51-413E-98CF-325E9854071D",
+      "overrideName": "10EA5D88-4A3B-4763-819B-494DA391D501_symbolID",
+      "value": "589E6FD3-41D1-40D4-990B-B384E6E36AD4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6ED3134C-4306-41A6-A826-7EB6FE6E1EAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FCA563C-C28A-4259-B8EC-2CA06F55048D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

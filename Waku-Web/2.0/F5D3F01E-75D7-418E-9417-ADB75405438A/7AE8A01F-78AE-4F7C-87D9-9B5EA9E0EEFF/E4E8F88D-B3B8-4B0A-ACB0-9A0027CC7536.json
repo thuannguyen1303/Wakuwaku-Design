@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4E8F88D-B3B8-4B0A-ACB0-9A0027CC7536",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EC238F35-780C-49CB-AEA4-5A4C6BA87BD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB24C3F2-3A7A-44D8-A36A-93865FE8239E",
+    "height": 24,
+    "width": 209,
+    "x": 0,
+    "y": 96
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / checkbox copy 24",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6976871-A236-42CC-A20D-857EFDE2DFE2",
+      "overrideName": "76024D65-44A0-40FD-A23C-6008BD18FBE6_stringValue",
+      "value": "Employment"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89DE7299-CC16-43D7-A27E-7EA183527701",
+      "overrideName": "10EA5D88-4A3B-4763-819B-494DA391D501_symbolID",
+      "value": "589E6FD3-41D1-40D4-990B-B384E6E36AD4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1EDE739-CD42-450D-A9E7-5342FFCEF493",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FCA563C-C28A-4259-B8EC-2CA06F55048D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

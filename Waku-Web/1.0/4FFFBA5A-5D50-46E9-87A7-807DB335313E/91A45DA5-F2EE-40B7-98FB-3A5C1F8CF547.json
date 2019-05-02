@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "91A45DA5-F2EE-40B7-98FB-3A5C1F8CF547",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "007A052A-1064-4A73-A831-A7047F8ACE1A",
+    "height": 56,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "nav / header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8038E3DA-49CC-4705-BC08-DF822C555696",
+      "overrideName": "5105124B-0983-4719-86E8-E0FBCC0AE3EE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFDEEE95-5A74-4651-9BAF-4B8E2AAC66D6",
+      "overrideName": "1C129096-144E-4048-9BC8-04816F3E738A_stringValue",
+      "value": "Admin's Page"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A46DD5DF-B4B7-4500-872D-170E185EABFD",
+      "overrideName": "AEB6A7F0-B8DB-461C-A0CA-3DA5F2E67203/E51D7017-88B2-4800-BA65-6A2D85C7232A_stringValue",
+      "value": "Admin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FCAC72EA-FE79-455C-95DB-C6F9F741730E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3EEFA940-8446-4681-B812-B588B662834D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

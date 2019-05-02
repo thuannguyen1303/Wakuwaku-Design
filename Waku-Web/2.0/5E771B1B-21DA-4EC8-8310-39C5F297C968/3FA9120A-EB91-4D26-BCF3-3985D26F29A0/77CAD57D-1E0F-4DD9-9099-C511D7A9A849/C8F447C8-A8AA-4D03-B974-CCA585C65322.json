@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C8F447C8-A8AA-4D03-B974-CCA585C65322",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55F84CA8-6C77-4D9C-8A94-80C1D1E13830",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "058E4D73-2EC0-4FEA-BB37-87BF87757813",
+    "height": 56,
+    "width": 520,
+    "x": 0,
+    "y": 304
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / list-view / md copy 22",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DEDB407-5E6E-48BB-B872-AB80EE0C3DE4",
+      "overrideName": "6BA88334-366C-4C1F-98AA-DD1405ED399D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CBFE7EE-2A07-4FC6-A47F-D2F3A1616513",
+      "overrideName": "E5417F86-B53B-4BA4-AA18-4E9824C350DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D18AC134-DB38-4171-9296-16148D28A28A",
+      "overrideName": "D8EE228D-0AA8-4449-A66A-9DE0A6C29AFB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1996555E-D437-4312-B025-39FC5D842ABE",
+      "overrideName": "9C15468E-9128-427D-82BB-CFAA9354CF16_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98E823CD-4A51-4A81-86FE-BBAE5E10384E",
+      "overrideName": "F54B37B0-F8F8-4306-B7A8-95D8B8363307_stringValue",
+      "value": "Phone number"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C236561-4CEB-44C8-AAF1-97B8E36E2265",
+      "overrideName": "13CD6FD5-3B09-4E44-84B1-6D99B78E83D3_stringValue",
+      "value": "+81 9012345678"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "55925B42-77D5-4953-B6BD-42C958E4A467",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "63F6FB1F-39FB-4A3E-8A4D-BEE1A000BCF4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 0
+    }
+  },
+  "verticalSpacing": 0
+}

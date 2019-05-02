@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC7E4727-917B-4612-95B6-6FCB71228365",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E66D381-C10C-46D1-AFA6-0FB447DCC8EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3620C61E-3EF1-4A75-AFA9-BAAF923724DF",
+    "height": 40,
+    "width": 343,
+    "x": 0,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / text-input copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C7E4532-9F07-4385-81D0-981CC67F84F2",
+      "overrideName": "FC7111E4-FAD0-4715-B1A5-06E3DCF864B9/8D7AB882-DF32-478D-B0A1-141E29BE9415_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ADA2B590-8EE3-429D-B271-69A6C69421F2",
+      "overrideName": "31257B1F-FE71-4DD9-85FE-B492F104F7D6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "93BC446D-7362-4D88-850D-CAE79F5AA2BA",
+      "overrideName": "C7173C62-9CC5-4D28-AEB2-5B3A84DD890E_stringValue",
+      "value": "244 Cong Quynh, Pham Ngu Lao W., District 1, Ho Chi Minh City"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30A6E76F-C282-4A64-919B-F1B842688769",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5AB79924-22E0-4D6E-91E3-40483C50999C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

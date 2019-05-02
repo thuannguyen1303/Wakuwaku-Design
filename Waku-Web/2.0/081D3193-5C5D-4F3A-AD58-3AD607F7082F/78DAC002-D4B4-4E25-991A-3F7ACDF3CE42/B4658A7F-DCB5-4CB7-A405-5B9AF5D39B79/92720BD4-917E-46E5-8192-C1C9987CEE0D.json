@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92720BD4-917E-46E5-8192-C1C9987CEE0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C26CA428-42CA-4DF6-9EA0-A0273D638A13",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A91158DB-C992-42C4-8C1C-36E35FC89695",
+    "height": 10,
+    "width": 10,
+    "x": 86,
+    "y": 11
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/stroke/clock",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8373D98A-8AFC-4DAC-90C9-6A3411F7CC73",
+      "overrideName": "0C0524C0-72E1-4C74-B8F7-823B48A22207_symbolID",
+      "value": "9E9091D6-E853-486A-AC5E-1F4D29E3E802"
+    }
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A10AC386-92EC-458C-8D63-131F55AF2B7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC99D10A-5652-4274-95F8-8D7D581E11A0",
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Ignore": 0
+    }
+  },
+  "verticalSpacing": 0
+}

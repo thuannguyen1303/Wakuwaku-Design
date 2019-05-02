@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "170EB0DC-79BB-4F71-83B0-2F7F6D2E5393",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1250370D-0249-456E-9940-4658F8479B3E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8BE7876B-FA48-40D4-8833-2083D28B21EB",
+    "height": 56,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "nav / header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFDEEE95-5A74-4651-9BAF-4B8E2AAC66D6",
+      "overrideName": "1C129096-144E-4048-9BC8-04816F3E738A_stringValue",
+      "value": "Admin's Page"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24E1D06E-CA21-4D00-9FD9-1A908863AE1D",
+      "overrideName": "5105124B-0983-4719-86E8-E0FBCC0AE3EE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDA107AF-0FEA-4AF7-8649-CAA15D47EAF9",
+      "overrideName": "AEB6A7F0-B8DB-461C-A0CA-3DA5F2E67203/E51D7017-88B2-4800-BA65-6A2D85C7232A_stringValue",
+      "value": "Admin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A0792BF6-3FDD-4FB1-91B4-2C7A23E7CDBC",
+      "overrideName": "73ED06B1-E0D9-49B4-95C7-49E9713B2164/1D59E777-DA70-4C7D-B4B4-2249AF6BC84D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/36d5c7eef4739719f885e2fc1c2298251d8e3705.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "031F892A-EA25-414F-BF8C-D287CF53BA1B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3EEFA940-8446-4681-B812-B588B662834D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

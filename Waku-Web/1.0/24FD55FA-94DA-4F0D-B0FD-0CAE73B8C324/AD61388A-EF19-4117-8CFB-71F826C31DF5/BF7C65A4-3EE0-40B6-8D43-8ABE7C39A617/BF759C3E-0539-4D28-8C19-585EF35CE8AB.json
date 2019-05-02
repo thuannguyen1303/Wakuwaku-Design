@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF759C3E-0539-4D28-8C19-585EF35CE8AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9A38891-2CCA-4BBC-95DF-23C9CE4258CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A5F1937-AD73-4F93-9D57-C297C334253B",
+    "height": 24,
+    "width": 94,
+    "x": 58,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / tag / neutral copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C523AD8-1390-41A7-9C0F-E44820E67B5E",
+      "overrideName": "7D4F3259-131F-47FD-9F41-DCA2222F5BF8_stringValue",
+      "value": "Sight Seeing"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC4E8AAA-E663-4CF0-97DF-1A4E04F37A76",
+      "overrideName": "7D4F3259-131F-47FD-9F41-DCA2222F5BF8_textStyle",
+      "value": "F4F57480-3A6C-40C7-8CDB-F1717A85B98D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D39AF498-8290-4F77-8F17-CF9B8B823A6A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB7E76A6-7865-467A-ACD2-7BB0BE15D148",
+  "verticalSpacing": 0
+}

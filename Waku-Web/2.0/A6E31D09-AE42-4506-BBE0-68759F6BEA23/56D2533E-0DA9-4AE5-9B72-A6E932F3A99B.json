@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "56D2533E-0DA9-4AE5-9B72-A6E932F3A99B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E527828-276F-41F6-82FB-54F87908A222",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "02AF9672-1BC2-4389-B314-1F720F07253F",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 912
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / list-view / list-group-header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E330D3B0-9DDC-4532-9640-5022F1F77C9D",
+      "overrideName": "C5B7D424-23F1-4DE3-96A2-392BB3EC6FAA_stringValue",
+      "value": "Restaurant / Shopping"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E61E5E62-0C5D-4EEE-A933-DC951152FD96",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41DD59DD-375B-420D-BFE6-57D81016E234",
+  "verticalSpacing": 0
+}

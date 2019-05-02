@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD27BF9C-8E20-44F3-868D-D364CBD9E6ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 94,
+    "x": 1310,
+    "y": 88
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "44A15568-B6ED-4B32-A9EC-11837EDFA7CD"
+    },
+    {
+      "class": "text",
+      "id": "2E5A8762-225A-4C12-B868-D42414B4ABD5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2832C8A-8832-473E-9FA7-AAD9CF9DBF90"
+    },
+    {
+      "class": "group",
+      "id": "ACCDA3BC-2E10-46C9-84B3-1936F80B4A96"
+    },
+    {
+      "class": "group",
+      "id": "BD8D230F-DE90-45E6-9887-A2C408FF845A"
+    },
+    {
+      "class": "group",
+      "id": "F60DD2A7-EA29-4FC7-95BD-3D46344271E3"
+    }
+  ],
+  "name": "component / button / secondary / sm /static-with-icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
