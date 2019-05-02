@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "41FAA39E-860A-4A25-AB18-DEE8A49FDB57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0BBAE5E-85D9-4C73-BE58-15236CE0C976",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B35B6F61-33C5-4FBD-B8AA-CCB8431A8C33",
+    "height": 120,
+    "width": 100,
+    "x": 836,
+    "y": 448
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "59D4ABE8-BBB9-45C0-99D2-EEB8909E5C7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0A4919F-30B0-44B3-B4FA-5D1AD30BD61E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65446853-4631-4BDA-8654-D8A94D4B057E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0CC0652-F565-46B0-A62D-3912F9C0A440"
+    }
+  ],
+  "name": "Stacked Group 2 [8v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35073787-0C95-4E9E-B848-1928C154253F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "spacing": 8,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    },
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 8
+      }
+    }
+  }
+}

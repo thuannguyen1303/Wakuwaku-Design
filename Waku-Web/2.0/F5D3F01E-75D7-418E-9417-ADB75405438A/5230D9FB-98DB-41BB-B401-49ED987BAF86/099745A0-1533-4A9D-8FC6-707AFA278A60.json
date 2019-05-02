@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "099745A0-1533-4A9D-8FC6-707AFA278A60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DCE909A-0EC2-4379-BA22-67F4A0B60146",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC8B6F75-19FE-4A1F-858A-D39A3D9E236A",
+    "height": 24,
+    "width": 160,
+    "x": 0,
+    "y": 32
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / checkbox copy 34",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F98C7C1-B5D4-4387-872C-0F10817547AC",
+      "overrideName": "76024D65-44A0-40FD-A23C-6008BD18FBE6_stringValue",
+      "value": "Tohoku"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE58AF6D-D28E-4CB4-ADC5-AE655E8DC402",
+      "overrideName": "10EA5D88-4A3B-4763-819B-494DA391D501_symbolID",
+      "value": "589E6FD3-41D1-40D4-990B-B384E6E36AD4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "03369734-697D-47C9-85F3-000D3248D5AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FCA563C-C28A-4259-B8EC-2CA06F55048D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

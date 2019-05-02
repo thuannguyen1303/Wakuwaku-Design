@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A18AD07-DF77-4486-8531-CBFB242C181B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14464188-48A9-4A40-853B-705D8E334845",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6BD4F23-2AFE-4E6C-8225-8E37775717DF",
+    "height": 80,
+    "width": 1168,
+    "x": 236,
+    "y": 312
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B9F05496-4EDB-407D-BB38-C5D0951AA5A9"
+    },
+    {
+      "class": "group",
+      "id": "0D7EE33B-D8FF-4167-A1F7-ABCA30003FC7"
+    },
+    {
+      "class": "group",
+      "id": "B6D18919-46D4-478C-9548-10F68E0B127D"
+    },
+    {
+      "class": "group",
+      "id": "788EAF52-ACC6-439B-B5CC-11BF2FEEAE3E"
+    },
+    {
+      "class": "group",
+      "id": "69976038-C423-4DEB-9BB1-39A6EB8B4241"
+    },
+    {
+      "class": "group",
+      "id": "1A2DF2BD-115E-4115-B41A-08F71C35922F"
+    },
+    {
+      "class": "rectangle",
+      "id": "4D731D26-0F3B-4F8B-8EAF-E6E144803E66"
+    },
+    {
+      "class": "rectangle",
+      "id": "215790F6-9534-495C-9992-2E9D63D32975"
+    },
+    {
+      "class": "rectangle",
+      "id": "C5B641C5-F856-467F-8B91-A3277D1F6FAD"
+    },
+    {
+      "class": "rectangle",
+      "id": "1B00CDBD-9ECE-4CFE-87BE-964D664767D7"
+    }
+  ],
+  "name": "Group 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87904711-AFBB-4154-BD6E-A1E9E03C5207",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

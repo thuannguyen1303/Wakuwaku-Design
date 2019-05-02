@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9AB7C20C-C682-408E-80B4-E61D6FE1E606",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B14F76E2-27DF-474B-BA59-12820F852826",
+    "height": 48,
+    "width": 161,
+    "x": 234,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / tab / active copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4E4F648-E7EF-49F7-A90D-F22A1E24395B",
+      "overrideName": "B13ABD33-E7AA-4076-9A28-94C0949D15E2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC0DFB29-DA68-414F-A1F3-22E44AA4A991",
+      "overrideName": "29EC70FB-88FD-4657-9DAE-07487C915028_stringValue",
+      "value": "Change Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A53AE2C-E2C0-4BD6-8B17-FF0FA9DDF801",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9262DB1A-E816-49AE-8FB4-5DB950AC42F9",
+  "verticalSpacing": 0
+}

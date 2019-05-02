@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "87EB4352-5BA8-4471-AB25-F67A780F6C1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "534570F1-E467-4D20-A3C1-99ABFC5AE254",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D047218A-0991-468F-810A-1BB928AB6737",
+    "height": 744,
+    "width": 311,
+    "x": 16,
+    "y": 64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E8CABBFB-27B8-4CAC-92EA-BA68E2C76CA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81E0094E-5CBC-49D1-85F3-7CF70D4D2510"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "000EEC9F-F2B3-4856-8D0C-0D8C99382F21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFB79F2E-0C31-4FF8-A0AE-68E13DF05F36"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "186CC846-8B6C-4231-80FD-E725C9D69471"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDA06D7A-4732-44B9-ADB9-332DA1B4C212"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BE0F556-A975-4D94-9FE1-F6E42213056F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A8904E2-00A0-45C7-9047-078C6E21843A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "99CE134B-09AB-4A78-A012-85549967C1E6"
+    }
+  ],
+  "name": "Group [0v l]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81C659ED-1432-4E81-A08D-4AE6FDAA55D5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+        0
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 0
+      }
+    }
+  }
+}

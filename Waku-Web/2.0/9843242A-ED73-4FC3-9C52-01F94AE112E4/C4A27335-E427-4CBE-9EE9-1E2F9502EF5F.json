@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4A27335-E427-4CBE-9EE9-1E2F9502EF5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83C77368-045D-422B-A526-5F77DEB43C94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF3EAF90-7497-47A1-9EF8-FBF95F81B436",
+    "height": 24,
+    "width": 110,
+    "x": 837,
+    "y": 561
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / selection / checkbox / pc copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10FBFDE4-B44B-4956-B71C-7D14A042556E",
+      "overrideName": "76024D65-44A0-40FD-A23C-6008BD18FBE6_stringValue",
+      "value": "Accounting"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "56B82566-AD54-458F-B596-43AD5A393DA6",
+      "overrideName": "10EA5D88-4A3B-4763-819B-494DA391D501/5799ACAC-53BF-491B-99BD-D6543CECEF47_symbolID",
+      "value": "C1CEC2DD-D7D0-407B-824E-90BB74D4D33C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4AA0C57B-C3E5-4755-A5DA-BFB9D6C55103",
+      "overrideName": "10EA5D88-4A3B-4763-819B-494DA391D501/D697138A-196E-4BD9-A6A5-B2F985DE9602_symbolID",
+      "value": "DAB1F315-AF0D-49D8-94AB-03C89E626DAA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7BE311BF-C763-43D7-B1DF-0E88B66D8627",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FCA563C-C28A-4259-B8EC-2CA06F55048D",
+  "verticalSpacing": 0
+}

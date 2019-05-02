@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6B4DF625-2BBF-40E9-B712-787B63549687",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "781B8466-5FAB-4CE8-B768-957368AFD084",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "531BAEFF-B8EC-46E4-BC75-373307AC3EA0",
+    "height": 24,
+    "width": 54,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / tag / neutral",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C523AD8-1390-41A7-9C0F-E44820E67B5E",
+      "overrideName": "7D4F3259-131F-47FD-9F41-DCA2222F5BF8_stringValue",
+      "value": "Travel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E589C5BB-D1A2-4E9F-8633-51AD7A2D4E8A",
+      "overrideName": "7D4F3259-131F-47FD-9F41-DCA2222F5BF8_textStyle",
+      "value": "F4F57480-3A6C-40C7-8CDB-F1717A85B98D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "999D148D-0D0B-4F04-AC51-C9F00D30EB6F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB7E76A6-7865-467A-ACD2-7BB0BE15D148",
+  "verticalSpacing": 0
+}

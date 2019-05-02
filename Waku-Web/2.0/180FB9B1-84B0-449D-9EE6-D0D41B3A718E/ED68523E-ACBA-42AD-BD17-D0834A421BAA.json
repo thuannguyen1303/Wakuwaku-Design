@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED68523E-ACBA-42AD-BD17-D0834A421BAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C271FD2-4FC7-43BE-BE26-897924DF83B0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68357A7C-9F3D-4DF6-8070-C3D94CB35221",
+    "height": 24,
+    "width": 200,
+    "x": 637,
+    "y": 476
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / selection / checkbox / pc copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10FBFDE4-B44B-4956-B71C-7D14A042556E",
+      "overrideName": "76024D65-44A0-40FD-A23C-6008BD18FBE6_stringValue",
+      "value": "Approval Permission"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EC40961-9734-4E48-AF90-B95A73B197A8",
+      "overrideName": "10EA5D88-4A3B-4763-819B-494DA391D501_symbolID",
+      "value": "589E6FD3-41D1-40D4-990B-B384E6E36AD4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D05812FF-E255-4B6C-AA8C-CEF866B92C49",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0FCA563C-C28A-4259-B8EC-2CA06F55048D",
+  "verticalSpacing": 0
+}

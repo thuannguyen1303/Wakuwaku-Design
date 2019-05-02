@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8462E2C6-CC4E-41BC-92A4-05DAAD006950",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "608846E8-B94F-4708-93F8-46BED3BA6C1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A5459BF5-3D3F-43F2-B4FB-71776CD995D1",
+    "height": 416,
+    "width": 568,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2CC7FDA9-2384-43A5-A202-1C1D93CF72CD"
+    },
+    {
+      "class": "group",
+      "id": "FBFA8449-C1F8-403E-9D73-850E2CF3E87A"
+    },
+    {
+      "class": "group",
+      "id": "FFFA9879-26AA-40F8-9859-B88ACD0AF543"
+    },
+    {
+      "class": "group",
+      "id": "7C375757-00E6-4456-849A-C709A219BCEB"
+    },
+    {
+      "class": "group",
+      "id": "F0AEEEC5-FB53-4DA4-87C6-0AC5D95748B0"
+    }
+  ],
+  "name": "Group 9 [24v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC0B2859-D5E9-44F9-A929-431AE1723F44",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 24
+      }
+    }
+  }
+}

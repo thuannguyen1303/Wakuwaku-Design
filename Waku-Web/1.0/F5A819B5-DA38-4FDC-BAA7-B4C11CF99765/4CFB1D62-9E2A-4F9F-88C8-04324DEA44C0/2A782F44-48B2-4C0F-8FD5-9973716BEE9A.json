@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A782F44-48B2-4C0F-8FD5-9973716BEE9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A1F4980-9CDB-4F1B-8B2A-43F7E3DC8B07",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "967A611C-8B68-4DBF-AC4A-6F7A08D9D6BE",
+    "height": 32,
+    "width": 196,
+    "x": 133,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "misc / logo / color",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F4409576-A68A-44C0-84C9-4E92C21120E4",
+      "overrideName": "E51D7017-88B2-4800-BA65-6A2D85C7232A_stringValue",
+      "value": "Admin"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "030B5CEE-E60F-4DB9-A523-2CF2891D66BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7C9CCF8A-3386-4CD0-A881-6F58F48AFC84",
+  "verticalSpacing": 0
+}

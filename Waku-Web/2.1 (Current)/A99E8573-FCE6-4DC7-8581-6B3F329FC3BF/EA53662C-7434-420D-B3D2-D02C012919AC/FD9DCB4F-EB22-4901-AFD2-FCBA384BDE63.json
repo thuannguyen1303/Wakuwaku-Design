@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FD9DCB4F-EB22-4901-AFD2-FCBA384BDE63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0A1895E-6BAA-4889-9946-0477D42F7A48",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61EE84A6-0EC3-4FE5-9D38-49EE7131F0D2",
+    "height": 24,
+    "width": 56,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / tag / neutral",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C523AD8-1390-41A7-9C0F-E44820E67B5E",
+      "overrideName": "7D4F3259-131F-47FD-9F41-DCA2222F5BF8_stringValue",
+      "value": "Travel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E589C5BB-D1A2-4E9F-8633-51AD7A2D4E8A",
+      "overrideName": "7D4F3259-131F-47FD-9F41-DCA2222F5BF8_textStyle",
+      "value": "FD12CDB4-54CD-43E3-B79C-9A471FEB64A5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E94E29DF-18C2-405F-832B-B12A9674C9AF",
+      "overrideName": "E1DE7D4B-3892-47C5-9173-C713C2D47345_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D79B4685-075C-4667-9DB6-429D0434EEE5",
+      "overrideName": "93A7492E-F55D-427C-BA1B-8132A4CA25C4_layerStyle",
+      "value": "A6DF2EB3-9FF6-4C4B-ABED-723AACC205AA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1001D1D4-E385-41B7-9ECB-30EC5291ED6D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB7E76A6-7865-467A-ACD2-7BB0BE15D148",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F74BA82-4E4C-4D88-856C-8529817C11AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 480,
+    "width": 1376,
+    "x": 32,
+    "y": 185
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A3292958-BFE6-4501-933C-349C9EA1E2F6"
+    },
+    {
+      "class": "group",
+      "id": "54C41896-D628-453C-9E34-6592509B71DB"
+    },
+    {
+      "class": "group",
+      "id": "FB12DD43-8CC0-454A-AE0A-7EFD82BC6F4B"
+    },
+    {
+      "class": "group",
+      "id": "00D0F248-F1F1-4543-87CD-71B2EFC13821"
+    },
+    {
+      "class": "group",
+      "id": "4C3B2477-5CBE-43DD-A791-D153B7E41448"
+    },
+    {
+      "class": "group",
+      "id": "EFC4FCA0-079C-400F-90A3-BBADBA7620B9"
+    },
+    {
+      "class": "group",
+      "id": "81C47F5F-7114-48F3-984A-497A850B20D3"
+    },
+    {
+      "class": "group",
+      "id": "418A9B6E-65B7-45C8-BEA3-E6569561A147"
+    },
+    {
+      "class": "group",
+      "id": "9DA0508C-3072-4D90-BB7B-F973FE268932"
+    },
+    {
+      "class": "group",
+      "id": "F5628A31-B80A-41C4-B964-B8A3F94BC39B"
+    }
+  ],
+  "name": "Stacked Group 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

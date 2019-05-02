@@ -1,0 +1,141 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "220C2C82-16E5-4290-9DF5-18637B11B24F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6352001E-B647-47E1-9357-8665802C1DE0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "254C24AD-9CD5-4FE2-9142-09F1319DE315",
+    "height": 1165,
+    "width": 868,
+    "x": 236,
+    "y": 144
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1555D1E4-0D34-40EA-B1EE-5E977FA8627B"
+    },
+    {
+      "class": "group",
+      "id": "7F5D6F37-CDE1-459D-9A0A-FF5CF48C8FB2"
+    },
+    {
+      "class": "group",
+      "id": "317491A0-B19D-4CFD-B138-7D108FB90860"
+    },
+    {
+      "class": "group",
+      "id": "970843CF-C7BB-4956-882E-6A78DE58B80D"
+    },
+    {
+      "class": "group",
+      "id": "DA3CDC00-36A2-4F8E-B7C4-5E41F665BC7D"
+    },
+    {
+      "class": "group",
+      "id": "94188E63-3F62-4FD5-8CB3-FB0E0F2B2CF2"
+    },
+    {
+      "class": "group",
+      "id": "CCF6DE5E-2E56-44A3-A5A9-F4D9FC9854F2"
+    },
+    {
+      "class": "group",
+      "id": "B3C5E000-9476-496B-B614-88FA1D08A569"
+    },
+    {
+      "class": "group",
+      "id": "963EC276-0D56-4F94-81A7-331C6FB3C75C"
+    },
+    {
+      "class": "group",
+      "id": "AE0A5B62-4B5E-4E43-8A37-1DEEDD8508AE"
+    },
+    {
+      "class": "rectangle",
+      "id": "3C35174F-5826-47CE-8F97-0117E95755E6"
+    },
+    {
+      "class": "rectangle",
+      "id": "ED267560-881B-4583-BCE7-E708A922EE7D"
+    },
+    {
+      "class": "rectangle",
+      "id": "EA2E157B-7C4A-470F-95B9-23FA34D6E0EA"
+    },
+    {
+      "class": "rectangle",
+      "id": "3A50C3DB-ADE6-416D-B711-60ED3AB49D1C"
+    },
+    {
+      "class": "rectangle",
+      "id": "5F97181B-EDC5-468C-9BF2-4BE48B3C8EFB"
+    },
+    {
+      "class": "rectangle",
+      "id": "15F8C0D5-242B-4243-BBC9-C909032D042F"
+    },
+    {
+      "class": "rectangle",
+      "id": "84306D55-C130-45E2-9D0D-C4F9DADDBD2F"
+    },
+    {
+      "class": "rectangle",
+      "id": "F4D75BC6-354F-40FB-82BE-9EADB0454179"
+    },
+    {
+      "class": "rectangle",
+      "id": "A48E201C-C160-489F-A300-F51A7502BD94"
+    }
+  ],
+  "name": "Article List [24v l]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFF2C9AC-095C-4B83-B565-CECE07572DA4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+        0
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 24
+      }
+    }
+  }
+}

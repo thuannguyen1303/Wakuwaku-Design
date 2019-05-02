@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2786CC6B-A4D9-429B-86F4-90CFC07BDDCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E19ADDA-824E-4436-87CA-2C8C4674FC37",
+    "height": 80,
+    "width": 311,
+    "x": 0,
+    "y": 480
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / list-view / md copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2766C3B-77EF-4215-BBB8-D18F1FC0A4A1",
+      "overrideName": "6BA88334-366C-4C1F-98AA-DD1405ED399D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "007E7C0D-E3FE-43A0-AC6E-0F60FAC46EC4",
+      "overrideName": "E5417F86-B53B-4BA4-AA18-4E9824C350DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6BE49613-53E0-4B5A-93C0-9951A5E4BE47",
+      "overrideName": "D8EE228D-0AA8-4449-A66A-9DE0A6C29AFB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47555065-AA13-4C2C-B092-C32AFC3EAEC9",
+      "overrideName": "91B73BED-CA2F-4916-9211-535B194B1549_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "22EC0C9A-1B39-4D98-AD2A-2734C0D23934",
+      "overrideName": "BEFEE517-96BF-46C1-90AA-A3FFD32FA3D3_stringValue",
+      "value": "Most stay areas in Japan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5317C316-D79D-4C92-AE91-E363ECBAFFFF",
+      "overrideName": "2ACBF7FD-1D6B-45EF-95BA-B47902276C35_stringValue",
+      "value": "I have never been Japan yet"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32ABB0CD-9F15-4AF9-A822-0493BFD4309F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29D93528-FA98-4ADC-B947-1080632ACD06",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 0
+    }
+  },
+  "verticalSpacing": 0
+}

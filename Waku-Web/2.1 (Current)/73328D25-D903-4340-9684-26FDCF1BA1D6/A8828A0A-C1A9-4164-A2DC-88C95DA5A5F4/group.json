@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A8828A0A-C1A9-4164-A2DC-88C95DA5A5F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37C968E6-E81D-4D87-8C03-DDDEB8BA7F94",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93440E98-578C-4C8D-9B04-27F3EA9B7B18",
+    "height": 1094,
+    "width": 640,
+    "x": 400,
+    "y": 96
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "374D2DA3-26FC-4010-A5B1-0FFD0D151FA1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8CD2253E-59AA-4162-AF65-20FD3A072862"
+    },
+    {
+      "class": "rectangle",
+      "id": "8B89CA2A-FDF3-4790-880B-ACE1C4DD888A"
+    },
+    {
+      "class": "rectangle",
+      "id": "EE1F63C7-F7BB-40E9-AD68-57CCFA063D95"
+    },
+    {
+      "class": "text",
+      "id": "46CD12A2-1749-4A7A-9B05-DC19E6783AE5"
+    },
+    {
+      "class": "rectangle",
+      "id": "CE54366E-C27B-402F-A193-83052D2DC1D0"
+    },
+    {
+      "class": "text",
+      "id": "5CBDB504-BF5E-429E-AFD8-B8ADA4991F1D"
+    },
+    {
+      "class": "text",
+      "id": "9B141BE7-3C31-48FB-93D3-C737A349AC7D"
+    },
+    {
+      "class": "group",
+      "id": "E15240B3-8444-4E05-A55D-DFAD4C5FF596"
+    },
+    {
+      "class": "group",
+      "id": "B9B0C0C9-0F66-403B-8190-A033BE84D673"
+    },
+    {
+      "class": "group",
+      "id": "23428400-BFA1-4F99-B39A-163C45575DDD"
+    },
+    {
+      "class": "text",
+      "id": "F50B5217-6BE0-437B-985A-5E617CBB97EF"
+    },
+    {
+      "class": "text",
+      "id": "EF5BCDFF-0138-45CD-A649-04080CA85ED9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A69202C3-D065-4D5F-88BB-A95439724068"
+    }
+  ],
+  "name": "Group 7",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D2C9C22-9DB3-4E0C-BE67-AB2524714C54",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77CAD57D-1E0F-4DD9-9099-C511D7A9A849",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB3DF08B-4820-42F9-8D94-0A72B9333E20",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1FB298C-C985-43A7-98D2-DE041E4AAC63",
+    "height": 528,
+    "width": 520,
+    "x": 24,
+    "y": 72
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2992B25D-040C-49DC-A575-A6B41C484285"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1CB8A7F4-6A07-418B-91B6-B4358BE74257"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A587D55-60E0-4EB7-8D6D-0676B4FAA650"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "622C504B-4A80-41A8-B20A-8684E851D4CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04059428-29F9-41B1-958E-6C214847C181"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8F447C8-A8AA-4D03-B974-CCA585C65322"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7A15C706-86BB-4443-8811-6A5BDEDA50C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3E12DE3-8A9E-4AE1-8842-D250EB5EBFBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E11E50C6-1D90-4BB9-9BD2-316B1825F085"
+    }
+  ],
+  "name": "Group [0v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9810EBC4-3873-4DB9-BBE9-F63DBD65B21F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 0
+      }
+    }
+  }
+}

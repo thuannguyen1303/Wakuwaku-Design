@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC1410CA-ED3B-4D49-A730-702941BB3956",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 448,
+    "width": 375,
+    "x": 0,
+    "y": 2724
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "83940B37-FB15-4F23-97EB-4D6A7F311E4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B1891AD-19BF-4858-AA5B-13918518776A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E20CCF33-4290-43B0-AA1F-67CECA9A0A84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF0F0F70-B02E-4A9B-B330-20CF29D2E06E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62956641-63F1-45BB-A0E7-C8FD110F91C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CB7EBA7-1D10-4B3C-93D9-077DB45FCF94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "713149F6-D6C6-4F59-BE09-FE722DCF983D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D5F0752-9A62-4134-989A-E4011F2A7B4D"
+    }
+  ],
+  "name": "Group 2 [0v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "39CAC98C-0D95-427D-98A6-C079F0A5A483",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85B1AC36-404B-49D8-BAA3-D23D0E8586CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B30C9D16-3274-4827-908D-3C398F76CC13",
+    "height": 63,
+    "width": 568,
+    "x": 0,
+    "y": 84
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "323B3849-57A3-4C28-83DE-F3669AE93EA1"
+    },
+    {
+      "class": "text",
+      "id": "219281BC-361A-44CC-90A3-32F45717F20B"
+    }
+  ],
+  "name": "Twitter Input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27F34532-1E4A-49B2-9D98-F6D86C755D03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

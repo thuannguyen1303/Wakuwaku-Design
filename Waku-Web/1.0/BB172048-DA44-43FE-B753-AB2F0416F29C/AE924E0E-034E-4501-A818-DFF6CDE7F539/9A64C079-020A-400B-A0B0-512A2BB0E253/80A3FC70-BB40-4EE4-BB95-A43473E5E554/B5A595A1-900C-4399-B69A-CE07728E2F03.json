@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5A595A1-900C-4399-B69A-CE07728E2F03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 184,
+    "width": 311,
+    "x": 0,
+    "y": 640
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / view / list-mobile  / item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B709A796-0203-40E4-80CE-EA463EBEB0CB",
+      "overrideName": "2ACBF7FD-1D6B-45EF-95BA-B47902276C35_stringValue",
+      "value": "“My name is Thuan Nguyen, and I’m currently looking for a job in youth services. I have 10 years of experience working with youth agencies. I have a bachelor’s degree in outdoor education. I raise money, train leaders, and organize units."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ECDF0B2B-C586-4D68-BEB0-6F25806B6665",
+      "overrideName": "91B73BED-CA2F-4916-9211-535B194B1549_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B0A6B10-F4EF-4BB0-B620-29A7164BD47D",
+      "overrideName": "BEFEE517-96BF-46C1-90AA-A3FFD32FA3D3_stringValue",
+      "value": "Self-Introduction"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7D78758F-F08E-46A0-A539-0FA95C894A9A",
+      "overrideName": "D3FAE8CF-D09C-41C4-8F20-342143D8E0BA_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29D93528-FA98-4ADC-B947-1080632ACD06",
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 0
+    }
+  },
+  "verticalSpacing": 0
+}

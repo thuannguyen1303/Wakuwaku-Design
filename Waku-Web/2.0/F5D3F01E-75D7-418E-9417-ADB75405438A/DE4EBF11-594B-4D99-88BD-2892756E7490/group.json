@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DE4EBF11-594B-4D99-88BD-2892756E7490",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6A85046-5E85-4E5F-A653-083CE126C2B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33AB91E5-984E-41F2-801C-C8376C3B9BCB",
+    "height": 152,
+    "width": 160,
+    "x": 536,
+    "y": 696
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6B6C3703-3031-412D-8D9E-564EE60DAB48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AB96BE9-E24E-44A2-A8D4-E84682E8CFE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87A0AE53-8CEC-448C-BF40-AAFE06A532CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBD4403B-A0D2-4C00-86D6-A31111EA5EF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69C560F9-2E8E-434F-A6B1-3445DC0905DE"
+    }
+  ],
+  "name": "Stacked Group 4 [8v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89F4381A-8515-448C-A8DE-D190A4CAE429",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "spacing": 8,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    },
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77D93A22-59B0-4DBD-88DC-6FFE0E1BC52E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EFD81D6-3AE3-40D8-A704-ED86E5EB824F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75534917-5F73-4D9D-ACC6-7524BD1C3D3D",
+    "height": 42,
+    "width": 424,
+    "x": 137,
+    "y": 280
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B18EA65E-B37A-4717-9BE3-DE44A3AD45F2"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3B532C39-3F24-4E1F-A27A-B3357D574589"
+    },
+    {
+      "class": "group",
+      "id": "D0EAFDBA-BFBF-4C68-954F-A043E1AF1622"
+    },
+    {
+      "class": "group",
+      "id": "3A48B4FF-996D-4A2F-B05D-79B1B8AECF03"
+    },
+    {
+      "class": "rectangle",
+      "id": "C54C0B3B-F3EC-4C1C-8B6A-9A3AEC68F808"
+    },
+    {
+      "class": "rectangle",
+      "id": "CC3A6F3B-F44D-4F64-BE15-892D0128112E"
+    }
+  ],
+  "name": "Stacked Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D354E989-80C8-4D2C-97C7-3544D17098CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 5,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 24,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2039ADF-0B37-49C2-B761-6D0213111793",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "853F9D0A-D7A2-47E1-8EE7-40B8E7651FB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D39C44B-C651-44F0-8009-BABC7FABA12B",
+    "height": 624,
+    "width": 354,
+    "x": 24,
+    "y": 71
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E84C99A5-BD50-4C31-B101-A1AFDBB13735"
+    },
+    {
+      "class": "group",
+      "id": "B9E56F35-DB2B-496B-A205-3041FEFED7B5"
+    },
+    {
+      "class": "group",
+      "id": "458B436D-DA75-4531-91E0-94ED1507F03F"
+    },
+    {
+      "class": "group",
+      "id": "79464607-A5FE-47BD-97C6-666EE72BE6EE"
+    },
+    {
+      "class": "rectangle",
+      "id": "8FBE64D1-9003-4157-B071-E5997A6EDA63"
+    },
+    {
+      "class": "rectangle",
+      "id": "E09833E4-C6AB-49C8-9C56-18F15A41272E"
+    },
+    {
+      "class": "rectangle",
+      "id": "B1F16318-F3F9-4637-A1A7-98F67065F7C0"
+    }
+  ],
+  "name": "Comment - List [16v c]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DECFB8E8-F2E7-483C-BC82-69E5E043E146",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+        1
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 16
+      }
+    }
+  }
+}

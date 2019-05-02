@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8185E00F-259D-44EB-B0FB-B349D6A88355",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D5AB926-024C-4ACD-B2F9-3D5CCCC3290D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2806A73C-8D35-4A59-908C-91B2D8BF6526",
+    "height": 72,
+    "width": 343,
+    "x": 0,
+    "y": 420
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F3BE674A-03BA-4DE6-A934-7989E02EABF7"
+    },
+    {
+      "class": "group",
+      "id": "A66E6A65-A495-4102-8CE5-BD6169AE9C51"
+    }
+  ],
+  "name": "Password",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D52384E-8E2B-480C-A4E1-794EF3D361D8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

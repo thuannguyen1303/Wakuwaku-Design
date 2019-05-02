@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE87D7B5-7C51-4318-BD49-C8B975F00257",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "117F349C-34B1-43AE-98C7-A58E5CCC33AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50A5EF25-9781-43BC-A2CD-65EB35C83184",
+    "height": 40,
+    "width": 79,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / button / secondary / normal copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75277FC3-993D-46F8-A6A7-51EB3D513F87",
+      "overrideName": "7B96FC3A-CFCB-461B-B8C5-A0FF1BEF8F87_stringValue",
+      "value": "Download User Log"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7772120D-5FB9-4DB1-BF07-1AE225E62DD8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9AFB77C8-5F01-4EF7-911C-1EAF1833060D",
+  "verticalSpacing": 0
+}

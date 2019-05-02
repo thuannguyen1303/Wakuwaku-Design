@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "022E9947-BBF2-4897-9477-817522097800",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB243AA7-EAB2-42A9-81E6-70D40719489D",
+    "height": 744,
+    "width": 311,
+    "x": 16,
+    "y": 64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7EFDDC39-2A50-4694-85F2-C4D9A4F64BD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF04C072-766F-414F-BFAF-2B5AFBCD9235"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3423881-4C41-4DA4-B824-670C4659A1D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41EF2CFC-D976-4BDB-B02A-1AB721F88B52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D4CB194-5CE4-48D8-9816-D60ABD37BE08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D7E49FF-AFB4-433D-9E54-A0AF5F94A832"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9BFBDE9-C289-4CF3-B4C0-46D423171027"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05B988FF-CED7-4314-A9F2-A4575F8DE5CB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D55C5031-A2E9-4FB0-9618-BDD9032EA980"
+    }
+  ],
+  "name": "Group [0v l]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "68E248A6-67BD-440A-BD9D-77B8210FAB01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+        0
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 0
+      }
+    }
+  }
+}

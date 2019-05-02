@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F52D5C3-019B-4C2E-BF41-D5ABAD15BBD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5841F36B-B017-4610-81AB-204C0F210580",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE32A254-D1BA-44CD-8A19-D51B95CD4410",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 2332
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / selection / checkbox /  group-title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D504F1CA-876B-4F71-AC38-23CA28870753",
+      "overrideName": "C5B7D424-23F1-4DE3-96A2-392BB3EC6FAA_stringValue",
+      "value": "LAW / RULE / MANNER"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8E3B0139-24B7-4176-9999-2A3E537102F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41DD59DD-375B-420D-BFE6-57D81016E234",
+  "verticalSpacing": 0
+}

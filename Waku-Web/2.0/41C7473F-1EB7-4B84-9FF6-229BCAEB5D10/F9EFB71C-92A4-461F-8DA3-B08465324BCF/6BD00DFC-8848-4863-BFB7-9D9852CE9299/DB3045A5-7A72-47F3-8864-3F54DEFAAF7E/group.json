@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB3045A5-7A72-47F3-8864-3F54DEFAAF7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AB2692A-D3A1-4D44-B7C3-0EC71329B5C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D89DEB21-A57C-4D96-BB13-3D712BF9BEE9",
+    "height": 136,
+    "width": 569,
+    "x": 500,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B5C142DB-CED2-4B87-9CB2-AD19BEB1E6F6"
+    },
+    {
+      "class": "group",
+      "id": "EA090626-A7A2-4E63-9393-8747F5F0BDB8"
+    }
+  ],
+  "name": "Step 1 - Body",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE17338A-E91D-4375-98FD-6D4DC3C1DD8F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0
+    }
+  }
+}
