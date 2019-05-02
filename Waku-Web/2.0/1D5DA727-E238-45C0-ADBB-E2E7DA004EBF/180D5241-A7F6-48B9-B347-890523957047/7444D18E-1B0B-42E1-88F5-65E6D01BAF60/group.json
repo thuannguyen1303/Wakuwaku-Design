@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7444D18E-1B0B-42E1-88F5-65E6D01BAF60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A7E46D3E-4375-436C-8D45-F9761F6BDB4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D9F2FF0-D3F5-4AE8-91FE-1C798525FDF9",
+    "height": 297,
+    "width": 428,
+    "x": 0,
+    "y": 952
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "64112192-B53C-429C-87D3-C0C9A99BC596"
+    },
+    {
+      "class": "group",
+      "id": "978BCF32-0FEB-4957-9416-EE17304D6DFC"
+    }
+  ],
+  "name": "Payment Summary card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA88EF58-A8C8-4016-B823-550AF0683C09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CEE2DF31-2155-447B-8529-42E051003883",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29630D37-550B-4AD4-B3C2-46CBEB01758C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "68A1D25F-3614-4807-BD24-E466FB9FB8F1",
+    "height": 32,
+    "width": 82,
+    "x": 1086,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1B682841-E169-4540-86E3-18466DDFA1C7"
+    },
+    {
+      "class": "text",
+      "id": "C0FBFF56-A9FB-4AD9-B94B-28AD58DAF0F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A4C5173-BA03-4AA8-9317-2A88CA5971BD"
+    }
+  ],
+  "name": "Datepicker - Button [8h m]",
+  "nameIsFixed": true,
+  "resizingConstraint": 30,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DA31181-59A1-4BEF-B505-2C5EB74AD786",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+        4
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 2,
+        "Spacing": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "805FD8F9-7E57-404A-97D8-DC8C896D0C09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 376,
+    "width": 568,
+    "x": 236,
+    "y": 304
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8B3E1583-01BD-4D51-BBAB-93720FA5E1EC"
+    },
+    {
+      "class": "group",
+      "id": "024E68BF-92A1-47DB-B991-A904E92DA382"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59DBCB9F-45B7-401D-BDB2-5A6950E164C1"
+    },
+    {
+      "class": "group",
+      "id": "BBCE6DFD-1303-4DC0-ADCA-15B1B065BE8E"
+    }
+  ],
+  "name": "Monthly Income",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

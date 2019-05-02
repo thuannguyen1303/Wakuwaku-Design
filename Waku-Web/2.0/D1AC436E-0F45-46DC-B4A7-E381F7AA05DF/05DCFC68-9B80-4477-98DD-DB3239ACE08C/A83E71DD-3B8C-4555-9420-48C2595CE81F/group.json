@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A83E71DD-3B8C-4555-9420-48C2595CE81F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 93,
+    "x": 216,
+    "y": 72
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4581AC85-A691-42BE-80F0-946FBDA9B093"
+    },
+    {
+      "class": "text",
+      "id": "6C4468F0-8584-481A-AA54-AAC55B0FF3E8"
+    },
+    {
+      "class": "group",
+      "id": "3C09B5F2-AAB1-4700-9535-FCEE8E76D1D7"
+    },
+    {
+      "class": "group",
+      "id": "BEFFF90B-7B99-4ABD-B389-F8231E659E79"
+    }
+  ],
+  "name": "component / button / secondary / normal copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

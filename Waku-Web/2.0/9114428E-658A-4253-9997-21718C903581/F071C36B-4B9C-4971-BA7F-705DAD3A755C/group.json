@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F071C36B-4B9C-4971-BA7F-705DAD3A755C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA57CDC4-91F1-49A9-AAAF-D43CA8DABE46",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6077F7E2-1FAF-4B3F-898B-100BCFE9236A",
+    "height": 1154,
+    "width": 868,
+    "x": 236,
+    "y": 144
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6B355040-BD10-4943-9AB2-8BC3E9EF457C"
+    },
+    {
+      "class": "group",
+      "id": "3AE7B6E3-6F7D-460D-BEFA-CCB54E049520"
+    },
+    {
+      "class": "group",
+      "id": "9B633C0A-71C9-4D75-9D08-F34C677AB6C2"
+    },
+    {
+      "class": "group",
+      "id": "FABE99F4-977C-461E-A212-6A003D2FA31E"
+    },
+    {
+      "class": "group",
+      "id": "AC8FB588-3A5D-4C50-933D-B576472813ED"
+    },
+    {
+      "class": "group",
+      "id": "FFFFFB5C-9862-4FA5-B51C-7FF30EA2F9EE"
+    },
+    {
+      "class": "group",
+      "id": "0892FF97-3635-4357-BCEE-A0540BBDA8F4"
+    },
+    {
+      "class": "group",
+      "id": "616CAE26-33CA-4215-9EDF-76329D813A10"
+    },
+    {
+      "class": "group",
+      "id": "C9803EF4-3958-4519-A2E8-B1BFEFB3B01D"
+    },
+    {
+      "class": "group",
+      "id": "9177560F-ACFA-4D01-8296-F5CB2991DF96"
+    }
+  ],
+  "name": "Article List [16v]",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "848F6969-308B-405A-BE6C-78105C6822C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 16
+      }
+    }
+  }
+}

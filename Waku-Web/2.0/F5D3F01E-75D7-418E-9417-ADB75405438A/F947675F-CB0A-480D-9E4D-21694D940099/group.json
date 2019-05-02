@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F947675F-CB0A-480D-9E4D-21694D940099",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "224A808D-881A-4F04-A3C7-CEE6DC85E63A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B21D2529-B859-44BF-A7FE-BB740EA212B0",
+    "height": 184,
+    "width": 168,
+    "x": 236,
+    "y": 448
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D01DEEF4-2A42-4C45-8638-F7AA1EF27909"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74C63A93-E9E3-4E0C-96BF-1E98DEB65E30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "106DDBD9-77B1-4577-9B65-1F24AF718044"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95D0EAC9-4A25-48E3-A548-F61EF7C8FA0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF5A8104-363F-4377-B87B-935975646D04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96394CFC-299D-4A23-90E0-5E31B46344DD"
+    }
+  ],
+  "name": "Stacked Group [8v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A520A240-727A-41E4-A08D-6DDB25D5F5CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 2,
+        "isCollapsing": 1,
+        "spacing": 8,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    },
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 8
+      }
+    }
+  }
+}

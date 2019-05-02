@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9087F35-5237-44D1-88AC-CFFBC68F441C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0794936C-D3C7-427A-AF7B-EF44CD6681E0",
+    "height": 56,
+    "width": 520,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / list-view / md copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D12B457D-11E8-404C-8F71-6D1154F0CE29",
+      "overrideName": "6BA88334-366C-4C1F-98AA-DD1405ED399D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FFC3AA0-641A-4E5F-AD03-60933AA6E1F2",
+      "overrideName": "D8EE228D-0AA8-4449-A66A-9DE0A6C29AFB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C20CADD3-C995-4A1D-8F76-7292ED91BE68",
+      "overrideName": "E5417F86-B53B-4BA4-AA18-4E9824C350DF_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7DF66DAC-BD16-4285-8EA5-E8970A1B39A1",
+      "overrideName": "2FC15FD7-8285-4FBE-ABCB-41B9E7E3810D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D332C32D-5589-4E01-94A7-A63C9A32882B",
+      "overrideName": "F54B37B0-F8F8-4306-B7A8-95D8B8363307_stringValue",
+      "value": "Nickname"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4CCC0A7C-C6D0-43BF-9B7B-B1EACF7C7BF8",
+      "overrideName": "13CD6FD5-3B09-4E44-84B1-6D99B78E83D3_stringValue",
+      "value": "Beard.thuan"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CFAE9FF-2716-4708-8A37-1588F6D84C61",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "63F6FB1F-39FB-4A3E-8A4D-BEE1A000BCF4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "AutoResize": 0
+    }
+  },
+  "verticalSpacing": 0
+}

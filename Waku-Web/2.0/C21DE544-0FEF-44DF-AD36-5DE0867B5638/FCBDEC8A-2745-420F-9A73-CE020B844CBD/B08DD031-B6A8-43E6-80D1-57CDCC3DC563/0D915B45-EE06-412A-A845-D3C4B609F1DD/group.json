@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0D915B45-EE06-412A-A845-D3C4B609F1DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "888536D8-E97D-4D7F-BCB2-059D00E4D5D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82FF09C6-960E-4D49-BF91-0AD5219CADC3",
+    "height": 64,
+    "width": 568,
+    "x": 0,
+    "y": 83
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A90B8BCB-A98E-4414-8009-71E168B07431"
+    },
+    {
+      "class": "text",
+      "id": "2460A2FB-FF1D-419F-B5D3-ABDBE4E75FB6"
+    }
+  ],
+  "name": "Paypay Input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "678F4A36-BF72-4FF4-AFD7-F1D4EBFBF456",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

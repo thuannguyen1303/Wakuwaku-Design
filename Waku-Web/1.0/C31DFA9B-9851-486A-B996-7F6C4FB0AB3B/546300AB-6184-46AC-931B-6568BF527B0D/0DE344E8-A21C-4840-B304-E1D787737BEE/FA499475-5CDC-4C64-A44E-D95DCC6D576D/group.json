@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA499475-5CDC-4C64-A44E-D95DCC6D576D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 448,
+    "width": 520,
+    "x": 0,
+    "y": 68
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "85EC99A5-16CB-47B1-A879-EB5098F9D8EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C56077E4-5D4C-4D1B-A3B5-AE0315AD276F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "56E9A20E-CE7F-4CE6-9A6D-874914B84A7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6CE98E6E-5DBB-404C-9E02-CC3C52E5E675"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C41303C1-899E-4F69-8769-114AEF9A5153"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F8E8F06-9344-4C18-8C32-D14555B807C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9087F35-5237-44D1-88AC-CFFBC68F441C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F70DD221-731E-4DDB-BF6B-C93B533EAAFF"
+    }
+  ],
+  "name": "Group 8 [0v]",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.davidwilliames.sketch-plugins.paddy2": {
+      "Alignment": [
+      ],
+      "Ignore": 0,
+      "Stack": {
+        "Collapsing": 1,
+        "Orientation": 1,
+        "Spacing": 0
+      }
+    }
+  }
+}

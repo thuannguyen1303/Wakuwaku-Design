@@ -1,0 +1,193 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3A06084B-3CE9-4D00-95EC-F4BFB5308D03",
+    "green": 1,
+    "red": 0.996078431372549
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F9FEF0B-69DC-418B-8D5D-3CC84247EA29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F503285-DEAD-4F40-BE20-46EAF531BF84",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FB06CF2-C660-4F6E-9D62-8D84976A49C6",
+    "height": 900,
+    "width": 1440,
+    "x": -2316,
+    "y": 4668
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "6D2CBB1F-0F83-43C6-94DC-AC41C11574EA",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7956B74B-A296-4621-923E-BA99AAC62A5B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1FF6A891-54B3-4C5F-BE4D-7006F1D09B7F"
+    },
+    {
+      "class": "group",
+      "id": "909F9F85-0561-46C8-922F-D616BA123435"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43E900D9-1D9B-4CAB-9299-4EA74E50F171"
+    },
+    {
+      "class": "group",
+      "id": "784FB825-3544-4BB0-BC9D-189990BBC84D"
+    },
+    {
+      "class": "group",
+      "id": "D236642D-D7FA-4EC6-BE60-DA5D9FC609DD"
+    },
+    {
+      "class": "group",
+      "id": "99737EE3-1D7A-4003-942D-8D344AFF13AE"
+    },
+    {
+      "class": "group",
+      "id": "71CFA567-E885-4FC1-98F0-27D65CD4915B"
+    },
+    {
+      "class": "group",
+      "id": "2C05015D-F307-4D2B-923D-9BAD5ED86CE8"
+    },
+    {
+      "class": "group",
+      "id": "3006228A-1007-42F4-A427-5969BBAE63A6"
+    },
+    {
+      "class": "group",
+      "id": "E3D604D5-90D9-432E-9645-C8B91DCF0551"
+    },
+    {
+      "class": "group",
+      "id": "84F9BCF6-6271-4B51-81C2-EAB141CE88FD"
+    },
+    {
+      "class": "group",
+      "id": "B50F4F2B-5C46-48E2-AEA6-56F8231F5295"
+    },
+    {
+      "class": "group",
+      "id": "967DE07C-B41A-4EA0-B561-8AD8332E2967"
+    },
+    {
+      "class": "group",
+      "id": "2ED09111-9A60-4A47-BA59-DAE1EA45AF5C"
+    },
+    {
+      "class": "group",
+      "id": "A8D83E4A-CDCA-43A8-B98A-4175C7E7BF1B"
+    },
+    {
+      "class": "group",
+      "id": "C3014D9B-E390-451F-8995-F65490B76753"
+    },
+    {
+      "class": "group",
+      "id": "5A598CD9-3E74-4C3F-A0C0-E98A5724C92E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68,
+    "do_objectID": "678C8CDB-ED2D-46F1-B2B5-C6A430E5C614",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 220,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1200
+  },
+  "name": "Admin - Users - Edit User Alert 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 900,
+    "name": "Waku",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDACE1C5-4ABF-4A72-B605-998FB89D5FC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableIDSketchID": "7400CDFC-D0BC-4574-8B21-17233048CCD5"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "65360FE5-C883-487C-9AB2-E235028609FA",
+    "guides": [
+    ]
+  }
+}

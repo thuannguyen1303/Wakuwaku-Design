@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE50C352-E32B-463C-89EE-E9F75295EA85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 900,
+    "width": 400,
+    "x": 1040,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A720EF26-1C95-4C15-B375-77FD5258645C"
+    },
+    {
+      "class": "group",
+      "id": "BE90D6D1-B557-4DDC-8C4F-F4E1A786DAE0"
+    },
+    {
+      "class": "group",
+      "id": "88F4C148-D6A2-434A-9591-300AD04AEF7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47D2D354-DC32-4BBC-9C3E-A860F68C6416"
+    }
+  ],
+  "name": "Comment Panel - Slide out",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DBD20AAF-BD50-40BE-9232-12F1A442968D",
+    "green": 1,
+    "red": 0.996078431372549
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "00146312-F16C-466C-9C86-DCEEFCE2599A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D92D39F3-82AE-48AB-B7FE-B55EEE1A475D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05AC4CDE-3E8B-4238-AFC7-35DA4410F94D",
+    "height": 900,
+    "width": 1440,
+    "x": -3806,
+    "y": 2368
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "84AA6965-B6A5-4224-996E-A39F4FD4C009",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A47AA07-5B48-47AC-816A-CB6915E0C4CC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "08437143-7C1B-447C-AA3B-B2CCC3BEF2BC"
+    },
+    {
+      "class": "group",
+      "id": "1173E713-A970-4D3C-9579-B1F71615B9D2"
+    },
+    {
+      "class": "group",
+      "id": "64B9EDBB-D162-4022-8AF7-797318C62A17"
+    },
+    {
+      "class": "group",
+      "id": "4025F131-02CA-46F2-B515-E246081EAC68"
+    },
+    {
+      "class": "group",
+      "id": "970199D9-32A2-4871-A825-FC81D1AFE6EF"
+    },
+    {
+      "class": "group",
+      "id": "0100816D-F776-419E-AFE9-E5A2EC8F1113"
+    },
+    {
+      "class": "group",
+      "id": "D852FCBF-0F8D-49A9-8AA4-7FDB10DF736C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBDBFFDB-D71F-431B-9FB1-8599C06CF15E"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68,
+    "do_objectID": "717EF5EB-5B15-4E82-8852-A6030E3374B8",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 220,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1200
+  },
+  "name": "Admin - Personal Profile - Reset Pasword",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 900,
+    "name": "Waku",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableIDSketchID": "7400CDFC-D0BC-4574-8B21-17233048CCD5"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3D4A6CF2-0F44-4E53-8F39-63222F417AA3",
+    "guides": [
+    ]
+  }
+}

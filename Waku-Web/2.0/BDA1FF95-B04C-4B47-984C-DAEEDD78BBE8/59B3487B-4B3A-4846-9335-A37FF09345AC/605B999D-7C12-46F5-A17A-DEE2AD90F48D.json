@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "605B999D-7C12-46F5-A17A-DEE2AD90F48D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70B9F72C-3E07-4A19-8E30-D7E3EB52AD32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A531A98-1D7A-47A9-B10E-7B045A4A8224",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / selection / checkbox /  group-title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E6281C79-B5A4-42FF-A07D-314345E7C9A8",
+      "overrideName": "C5B7D424-23F1-4DE3-96A2-392BB3EC6FAA_stringValue",
+      "value": "Tags"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F5D8C97-66BC-4353-9A8D-E0AE3E85FF7B",
+      "overrideName": "3FC10CD9-D333-468E-8F56-B7D0A3585A96_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "98F35789-846C-4A3E-AFC9-0A6F42BC7F59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41DD59DD-375B-420D-BFE6-57D81016E234",
+  "verticalSpacing": 0
+}

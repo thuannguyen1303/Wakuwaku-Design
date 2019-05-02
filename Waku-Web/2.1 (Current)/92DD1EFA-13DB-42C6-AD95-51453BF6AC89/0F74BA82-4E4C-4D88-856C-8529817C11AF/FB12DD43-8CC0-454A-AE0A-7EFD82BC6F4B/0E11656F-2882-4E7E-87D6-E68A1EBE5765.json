@@ -1,0 +1,175 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2196078431372549,
+            "green": 0.1921568627450981,
+            "red": 0.1803921568627451
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "SFProText-Regular",
+              "size": 14
+            }
+          },
+          "kerning": -0.154,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 58,
+        "location": 0
+      }
+    ],
+    "string": "Hà Nội thoát án 'treo sân' vụ CĐV Hải Phòng đốt pháo sáng "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E11656F-2882-4E7E-87D6-E68A1EBE5765",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 562,
+    "x": 547,
+    "y": 14
+  },
+  "glyphBounds": "{{1, 2}, {380, 16}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Hà Nội thoát án 'tre",
+  "nameIsFixed": false,
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "FD12CDB4-54CD-43E3-B79C-9A471FEB64A5",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E203DDD6-82FC-485F-BF04-9CF9B086F4B5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2196078431372549,
+          "green": 0.1921568627450981,
+          "red": 0.1803921568627451
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "SFProText-Regular",
+            "size": 14
+          }
+        },
+        "kerning": -0.154,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "\n11\n",
+          "Bộ Công Thương muốn đóng dấu mật thông tin giá điện, xăng dầu ",
+          "89",
+          "Bỗng nhiên tài khoản có 5 tỷ, nam thanh niên rút ATM 200 lần ",
+          "194",
+          "Hơn 2.000 người chuẩn bị đại lễ Phật đản tại chùa Tam Chúc ",
+          "\n2\n",
+          "Nghị sĩ Hàn Quốc bị đối thủ nhốt trong phòng làm việc 6 tiếng",
+          "\n2\n",
+          "HLV Nhật Bản dẫn dắt tuyển trẻ nữ Việt Nam",
+          "\n3\n",
+          "Huế hoàn thành dự án làm sạch cổng Ngọ Môn ",
+          "99",
+          "3 chị em tấn công kiểm sát viên ở TP HCM lĩnh án",
+          "\n8\n",
+          "6 uẩn khúc trong vụ án con trai gây trọng tội với mẹ mù lòa",
+          "\n9\n",
+          "Người phụ nữ 'biến' pano, áp phích cũ thành những chiếc túi xách ",
+          "\n0\n",
+          "Chủ tịch quận 7 làm Giám đốc Sở Xây dựng TP HCM",
+          "\n0\n",
+          "Nhiều nhà dân lún nứt cạnh công trình cao tầng ở Hà Nội ",
+          "28",
+          "5 công nhân ở Vũng Tàu cấp cứu do ngộ độc khí amoniac",
+          "\n0\n",
+          "Giá tính phí trước bạ cao nhất của ôtô tại Việt Nam là 66 tỷ ",
+          "75",
+          "Những bộ phận ở lợn nên cẩn trọng khi ăn",
+          "\n1\n",
+          "Kim Jong-un nói Mỹ có ý đồ xấu tại hội nghị thượng đỉnh Hà Nội ",
+          "27",
+          "Vết xước tố cáo sát thủ giết 3 người ở Bình Dương ",
+          "168",
+          "Trang trại điện mặt trời hơn 600 tỷ ở Đăk Lăk đi vào hoạt động ",
+          "\n5\n",
+          "Sampaoli: 'Argentina thích phá hủy, thay vì thưởng thức Messi' ",
+          "94",
+          "Những hình ảnh hài hước khi du khách đi qua cầu kính ",
+          "25",
+          "Cựu chi cục trưởng thi hành án ở Hậu Giang bị bắt",
+          "\n7\n",
+          "Thầy giáo 70 tuổi chế ôtô điện từ linh kiện đồng nát ",
+          "64",
+          "Triều Tiên đòi Mỹ 2 triệu USD viện phí cho sinh viên Warmbier ",
+          "26",
+          "Ùn ứ hàng xuất khẩu tại cửa khẩu quốc tế Hữu Nghị",
+          "\n0\n",
+          "Hà Nội thoát án 'treo sân' vụ CĐV Hải Phòng đốt pháo sáng "
+        ]
+      }
+    }
+  }
+}

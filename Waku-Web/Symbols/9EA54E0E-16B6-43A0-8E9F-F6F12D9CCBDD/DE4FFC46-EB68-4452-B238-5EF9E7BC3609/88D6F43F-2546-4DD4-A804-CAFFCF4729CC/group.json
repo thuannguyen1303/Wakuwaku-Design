@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "88D6F43F-2546-4DD4-A804-CAFFCF4729CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24.0000001,
+    "width": 24.0000001,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "60CEC97D-61F5-459A-A47C-FF62D46B9C4A"
+    },
+    {
+      "class": "shapePath",
+      "id": "5D30B004-9B61-4D02-BD73-BEA3E032752E"
+    },
+    {
+      "class": "shapePath",
+      "id": "F38CB8E0-F9FF-449E-9B6D-9589BBEBBD81"
+    },
+    {
+      "class": "shapePath",
+      "id": "88118E89-D58A-4634-9F99-AA03E9BC2EB9"
+    },
+    {
+      "class": "group",
+      "id": "DDD17902-7D48-4442-A815-3997A31DAEA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "D68FCBE1-F048-437C-9366-E3A27F377AB6"
+    }
+  ],
+  "name": "Layer_1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B13B3F51-74AB-413A-A526-1F80FCE92EB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02ACD6A7-0590-429C-BEDE-AF190454238B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93646560-E125-48A1-9E72-EF3D1C99ED40",
+    "height": 440,
+    "width": 344,
+    "x": 0,
+    "y": 472
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3C31F942-3101-420F-A143-B0E2CB78B0D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97190E2B-85CC-4FD1-88F0-232193C3A68B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B13CCA1D-E020-421E-91E4-3856A110B0F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9BE7D43-B475-4A77-BCCF-4F9F868A53A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "73475BF9-AE65-4FFC-B66A-D0C99DFCEBD5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "982F80BD-435C-4257-B453-AE5903425BBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "409BEA2B-2B04-4BD4-87FF-6EBF14DEAE13"
+    }
+  ],
+  "name": "Payment in card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "185B23D8-BED3-40DC-BAE9-7630A982FC71",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

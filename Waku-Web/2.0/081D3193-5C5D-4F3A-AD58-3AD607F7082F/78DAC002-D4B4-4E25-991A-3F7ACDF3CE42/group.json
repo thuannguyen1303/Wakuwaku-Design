@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "78DAC002-D4B4-4E25-991A-3F7ACDF3CE42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9865CFB-39B2-4A6E-A86B-7DA376E0F8FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D6505EB7-3A2A-470E-B329-68D292FFBBFC",
+    "height": 376,
+    "width": 568,
+    "x": 836,
+    "y": 304
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "358FEA38-A360-4E52-AAA6-C3A7D40141AC"
+    },
+    {
+      "class": "group",
+      "id": "C278E1AB-0F19-4DAF-A120-D0D50BF0C085"
+    },
+    {
+      "class": "group",
+      "id": "B4658A7F-DCB5-4CB7-A405-5B9AF5D39B79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1669B2DA-5627-4012-87F3-6605DF509B23"
+    }
+  ],
+  "name": "Articles of the month",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10EBD260-96DF-4418-A8E1-F66E02944E52",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

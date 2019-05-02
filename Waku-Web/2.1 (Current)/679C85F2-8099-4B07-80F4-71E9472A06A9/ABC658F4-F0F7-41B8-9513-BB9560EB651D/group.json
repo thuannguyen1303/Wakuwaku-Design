@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ABC658F4-F0F7-41B8-9513-BB9560EB651D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AEBB49E5-8BE1-44A1-95BB-340CFAEA1FAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F348C0AC-FDA7-4570-B438-94E6638CDCF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6EAF9B1-2CE4-4DC7-8EBA-0DA94C916997"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "91231CE0-4F6B-494D-BF87-98DDCBA67594"
+    },
+    {
+      "class": "MSImmutableHotspotLayer",
+      "id": "744A3E60-5BBD-4C68-BF05-C5BF4FEB96CF"
+    },
+    {
+      "class": "group",
+      "id": "319530D9-3808-4B71-A011-18FF3FDC05EC"
+    },
+    {
+      "class": "group",
+      "id": "5327727B-789C-4B24-A723-D747D46D39EE"
+    }
+  ],
+  "name": "Header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

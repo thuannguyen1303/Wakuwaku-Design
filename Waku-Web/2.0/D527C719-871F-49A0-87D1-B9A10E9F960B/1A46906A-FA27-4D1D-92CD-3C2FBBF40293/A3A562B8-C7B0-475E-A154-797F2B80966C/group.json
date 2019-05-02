@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3A562B8-C7B0-475E-A154-797F2B80966C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E58B520A-7C47-4E45-98DC-1BF5173450CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB281AB7-2CD3-4BDD-8208-3843BA9EFC7E",
+    "height": 2,
+    "width": 16,
+    "x": 80,
+    "y": 15
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4A5A7882-74C7-4B38-A3AF-E4B613D02C25"
+    },
+    {
+      "class": "group",
+      "id": "B08A4707-FE7B-4780-BB08-977AB536D9FD"
+    }
+  ],
+  "name": "icon/photo-camera copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D08AB0C-9FCC-4B10-8B6A-BAE9BF587FDE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE7CCE9C-89F0-4938-BDAB-63C8EB13EB03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A6FBF9D-47CF-42F4-B145-94B00B5DE7F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23BD7D0D-C84D-4AB5-9A84-2201707294D7",
+    "height": 168,
+    "width": 343,
+    "x": 0,
+    "y": 432
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E4B9CAC2-558C-4422-8E54-4CB649AF772D"
+    },
+    {
+      "class": "group",
+      "id": "61288703-0DBD-4A10-A7C6-2D43519193BC"
+    }
+  ],
+  "name": "Step 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D87C04AF-1346-400C-BD2A-353CD29A12D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

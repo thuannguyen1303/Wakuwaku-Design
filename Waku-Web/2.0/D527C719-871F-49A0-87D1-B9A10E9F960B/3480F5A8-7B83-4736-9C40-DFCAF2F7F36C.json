@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3480F5A8-7B83-4736-9C40-DFCAF2F7F36C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3AAD3878-A365-4236-AB0A-95469293F2C1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33466956-1C0E-4BDB-A76A-933913EAD230",
+    "height": 21,
+    "width": 24,
+    "x": 1096,
+    "y": 1161
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/stroke/right-quotation-mark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36257A18-6ED0-462B-93FB-27D427AFCDA3",
+      "overrideName": "0EDA5767-B888-4F12-82E3-FA0C73B337B3_symbolID",
+      "value": "9E0C84EF-571F-40FA-926A-04A9D50F2295"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F643CA7C-B5D7-41FC-8BD3-36A7B70CDEB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BAD89C4B-3ACB-44D7-8AD1-0333C00CC708",
+  "verticalSpacing": 0
+}

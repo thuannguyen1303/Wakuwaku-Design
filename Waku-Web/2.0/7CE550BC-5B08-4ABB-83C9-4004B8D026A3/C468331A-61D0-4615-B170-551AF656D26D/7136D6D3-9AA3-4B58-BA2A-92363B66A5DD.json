@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7136D6D3-9AA3-4B58-BA2A-92363B66A5DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A7AEB1E-DFA3-4082-8466-E6EEE04A010A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "771F9049-0398-429E-983A-D1C5D4214263",
+    "do_objectID": "4DADD3EE-2C2E-4BE1-AD3A-1BD807B5DC92"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50CAC36B-D9DD-4A69-B7FB-5E98C6E9B27A",
+    "height": 65,
+    "width": 375,
+    "x": 0,
+    "y": 337
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "sidebar / link / no-active copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEF0023F-D2A9-4621-B72C-9640CA544997",
+      "overrideName": "4F39957B-0FF8-43AD-9950-2EC0A15DA18D_stringValue",
+      "value": "Log Out"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E482848-8F82-445F-82EE-7B71AD967FAE",
+      "overrideName": "0F8B85F0-EA63-40F9-A5EA-9B40AF697654_symbolID",
+      "value": "C9140576-F22C-4502-A6D2-EDA7F82C61EA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF67F79E-E162-45AE-B0FB-AAFFECADBE45",
+      "overrideName": "0F8B85F0-EA63-40F9-A5EA-9B40AF697654/941ED75F-E16C-49FE-ABC6-AFC1B68E00AE_symbolID",
+      "value": "DAB1F315-AF0D-49D8-94AB-03C89E626DAA"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ACCFEB6A-2D07-4D5C-8F08-85699C84497E",
+      "overrideName": "F49D3FC3-8DF6-4CBF-85E8-B34D75FEA223_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8D00CFFD-9C39-4454-BD3D-A484141B74B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "56896939-2CF8-4E8E-B1A6-2B6C1C746556",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
